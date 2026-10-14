@@ -1,0 +1,6 @@
+{
+  "zero_return_entry_cost": true,
+  "no_spurious_turnover": true,
+  "holdings_drift": true,
+  "net_return_nav_identity": true
+}

@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-09-15T08:06:09.178026+00:00",
+  "reason": "Static actual-weight compression failed cross-weight probes; tail95 current-weight32 preserves ES structurally but fails VaR tolerance.",
+  "candidate": "tail90_offgrid_actual, 64 states, recompress at each evaluated current weight",
+  "gate_unchanged": {
+    "max_abs_var_bp": 10,
+    "max_abs_es_bp": 5,
+    "max_abs_tail_probability_error": 0.0025,
+    "max_relative_gradient_l2": 0.1,
+    "min_centered_gradient_cosine": 0.95
+  },
+  "weights_unchanged": true,
+  "sampled_training_not_started": true,
+  "if_pass": "120-step paired downstream training: raw exact reference, original64/static_actual64/adaptive_actual64; exact, MC and gridBIQAE with seeds300..302 for sampling, lr0.3, budget8192. Recompression time and raw reads reported separately."
+}

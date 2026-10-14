@@ -1,0 +1,13 @@
+{
+  "completed_utc": "2026-09-15T08:19:03.323651+00:00",
+  "elapsed_seconds": 865.6217321000004,
+  "runs": 48,
+  "failures": 0,
+  "rounds": 1513,
+  "unique_circuits": 192,
+  "unique_payloads": 25,
+  "max_probability_error": 6.3089533597349146e-12,
+  "total_unique_compilation_seconds": 187.10529710000264,
+  "max_paired_ES_difference": 0.0,
+  "source_hashes_unchanged": true
+}

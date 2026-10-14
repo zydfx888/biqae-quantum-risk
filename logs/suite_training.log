@@ -1,0 +1,253 @@
+exp1 mc 210
+exp1 mc 211
+exp1 mc 212
+exp1 mc 213
+exp1 mc 214
+exp1 mc 215
+exp1 mc 216
+exp1 mc 217
+exp1 mc 218
+exp1 mc 219
+exp1 mc 220
+exp1 mc 221
+exp1 mc 222
+exp1 mc 223
+exp1 mc 224
+exp1 mc 225
+exp1 mc 226
+exp1 mc 227
+exp1 mc 228
+exp1 mc 229
+exp1 sobol 210
+exp1 sobol 211
+exp1 sobol 212
+exp1 sobol 213
+exp1 sobol 214
+exp1 sobol 215
+exp1 sobol 216
+exp1 sobol 217
+exp1 sobol 218
+exp1 sobol 219
+exp1 sobol 220
+exp1 sobol 221
+exp1 sobol 222
+exp1 sobol 223
+exp1 sobol 224
+exp1 sobol 225
+exp1 sobol 226
+exp1 sobol 227
+exp1 sobol 228
+exp1 sobol 229
+exp1 is 210
+exp1 is 211
+exp1 is 212
+exp1 is 213
+exp1 is 214
+exp1 is 215
+exp1 is 216
+exp1 is 217
+exp1 is 218
+exp1 is 219
+exp1 is 220
+exp1 is 221
+exp1 is 222
+exp1 is 223
+exp1 is 224
+exp1 is 225
+exp1 is 226
+exp1 is 227
+exp1 is 228
+exp1 is 229
+exp1 iqae 210
+exp1 iqae 211
+exp1 iqae 212
+exp1 iqae 213
+exp1 iqae 214
+exp1 iqae 215
+exp1 iqae 216
+exp1 iqae 217
+exp1 iqae 218
+exp1 iqae 219
+exp1 iqae 220
+exp1 iqae 221
+exp1 iqae 222
+exp1 iqae 223
+exp1 iqae 224
+exp1 iqae 225
+exp1 iqae 226
+exp1 iqae 227
+exp1 iqae 228
+exp1 iqae 229
+exp1 grid_biqae 210
+exp1 grid_biqae 211
+exp1 grid_biqae 212
+exp1 grid_biqae 213
+exp1 grid_biqae 214
+exp1 grid_biqae 215
+exp1 grid_biqae 216
+exp1 grid_biqae 217
+exp1 grid_biqae 218
+exp1 grid_biqae 219
+exp1 grid_biqae 220
+exp1 grid_biqae 221
+exp1 grid_biqae 222
+exp1 grid_biqae 223
+exp1 grid_biqae 224
+exp1 grid_biqae 225
+exp1 grid_biqae 226
+exp1 grid_biqae 227
+exp1 grid_biqae 228
+exp1 grid_biqae 229
+exp4 window 1 exact 200
+exp4 window 1 mc 200
+exp4 window 1 mc 201
+exp4 window 1 mc 202
+exp4 window 1 mc 203
+exp4 window 1 mc 204
+exp4 window 1 mc 205
+exp4 window 1 mc 206
+exp4 window 1 mc 207
+exp4 window 1 mc 208
+exp4 window 1 mc 209
+exp4 window 1 sobol 200
+exp4 window 1 sobol 201
+exp4 window 1 sobol 202
+exp4 window 1 sobol 203
+exp4 window 1 sobol 204
+exp4 window 1 sobol 205
+exp4 window 1 sobol 206
+exp4 window 1 sobol 207
+exp4 window 1 sobol 208
+exp4 window 1 sobol 209
+exp4 window 1 is 200
+exp4 window 1 is 201
+exp4 window 1 is 202
+exp4 window 1 is 203
+exp4 window 1 is 204
+exp4 window 1 is 205
+exp4 window 1 is 206
+exp4 window 1 is 207
+exp4 window 1 is 208
+exp4 window 1 is 209
+exp4 window 1 iqae 200
+exp4 window 1 iqae 201
+exp4 window 1 iqae 202
+exp4 window 1 iqae 203
+exp4 window 1 iqae 204
+exp4 window 1 iqae 205
+exp4 window 1 iqae 206
+exp4 window 1 iqae 207
+exp4 window 1 iqae 208
+exp4 window 1 iqae 209
+exp4 window 1 grid_biqae 200
+exp4 window 1 grid_biqae 201
+exp4 window 1 grid_biqae 202
+exp4 window 1 grid_biqae 203
+exp4 window 1 grid_biqae 204
+exp4 window 1 grid_biqae 205
+exp4 window 1 grid_biqae 206
+exp4 window 1 grid_biqae 207
+exp4 window 1 grid_biqae 208
+exp4 window 1 grid_biqae 209
+exp4 window 2 exact 200
+exp4 window 2 mc 200
+exp4 window 2 mc 201
+exp4 window 2 mc 202
+exp4 window 2 mc 203
+exp4 window 2 mc 204
+exp4 window 2 mc 205
+exp4 window 2 mc 206
+exp4 window 2 mc 207
+exp4 window 2 mc 208
+exp4 window 2 mc 209
+exp4 window 2 sobol 200
+exp4 window 2 sobol 201
+exp4 window 2 sobol 202
+exp4 window 2 sobol 203
+exp4 window 2 sobol 204
+exp4 window 2 sobol 205
+exp4 window 2 sobol 206
+exp4 window 2 sobol 207
+exp4 window 2 sobol 208
+exp4 window 2 sobol 209
+exp4 window 2 is 200
+exp4 window 2 is 201
+exp4 window 2 is 202
+exp4 window 2 is 203
+exp4 window 2 is 204
+exp4 window 2 is 205
+exp4 window 2 is 206
+exp4 window 2 is 207
+exp4 window 2 is 208
+exp4 window 2 is 209
+exp4 window 2 iqae 200
+exp4 window 2 iqae 201
+exp4 window 2 iqae 202
+exp4 window 2 iqae 203
+exp4 window 2 iqae 204
+exp4 window 2 iqae 205
+exp4 window 2 iqae 206
+exp4 window 2 iqae 207
+exp4 window 2 iqae 208
+exp4 window 2 iqae 209
+exp4 window 2 grid_biqae 200
+exp4 window 2 grid_biqae 201
+exp4 window 2 grid_biqae 202
+exp4 window 2 grid_biqae 203
+exp4 window 2 grid_biqae 204
+exp4 window 2 grid_biqae 205
+exp4 window 2 grid_biqae 206
+exp4 window 2 grid_biqae 207
+exp4 window 2 grid_biqae 208
+exp4 window 2 grid_biqae 209
+exp4 window 3 exact 200
+exp4 window 3 mc 200
+exp4 window 3 mc 201
+exp4 window 3 mc 202
+exp4 window 3 mc 203
+exp4 window 3 mc 204
+exp4 window 3 mc 205
+exp4 window 3 mc 206
+exp4 window 3 mc 207
+exp4 window 3 mc 208
+exp4 window 3 mc 209
+exp4 window 3 sobol 200
+exp4 window 3 sobol 201
+exp4 window 3 sobol 202
+exp4 window 3 sobol 203
+exp4 window 3 sobol 204
+exp4 window 3 sobol 205
+exp4 window 3 sobol 206
+exp4 window 3 sobol 207
+exp4 window 3 sobol 208
+exp4 window 3 sobol 209
+exp4 window 3 is 200
+exp4 window 3 is 201
+exp4 window 3 is 202
+exp4 window 3 is 203
+exp4 window 3 is 204
+exp4 window 3 is 205
+exp4 window 3 is 206
+exp4 window 3 is 207
+exp4 window 3 is 208
+exp4 window 3 is 209
+exp4 window 3 iqae 200
+exp4 window 3 iqae 201
+exp4 window 3 iqae 202
+exp4 window 3 iqae 203
+exp4 window 3 iqae 204
+exp4 window 3 iqae 205
+exp4 window 3 iqae 206
+exp4 window 3 iqae 207
+exp4 window 3 iqae 208
+exp4 window 3 iqae 209
+exp4 window 3 grid_biqae 200
+exp4 window 3 grid_biqae 201
+exp4 window 3 grid_biqae 202
+exp4 window 3 grid_biqae 203
+exp4 window 3 grid_biqae 204
+exp4 window 3 grid_biqae 205
+exp4 window 3 grid_biqae 206
+exp4 window 3 grid_biqae 207
+exp4 window 3 grid_biqae 208
+exp4 window 3 grid_biqae 209

@@ -1,0 +1,158 @@
+[
+  {
+    "iteration": 0,
+    "training_average_log_likelihood_standardized": -5.256519225090295
+  },
+  {
+    "iteration": 1,
+    "training_average_log_likelihood_standardized": -4.167944179663838
+  },
+  {
+    "iteration": 2,
+    "training_average_log_likelihood_standardized": -4.127357191140154
+  },
+  {
+    "iteration": 3,
+    "training_average_log_likelihood_standardized": -4.047320082261288
+  },
+  {
+    "iteration": 4,
+    "training_average_log_likelihood_standardized": -3.910726003623136
+  },
+  {
+    "iteration": 5,
+    "training_average_log_likelihood_standardized": -3.797452685074066
+  },
+  {
+    "iteration": 6,
+    "training_average_log_likelihood_standardized": -3.7400019861982656
+  },
+  {
+    "iteration": 7,
+    "training_average_log_likelihood_standardized": -3.705453259618294
+  },
+  {
+    "iteration": 8,
+    "training_average_log_likelihood_standardized": -3.680129957928651
+  },
+  {
+    "iteration": 9,
+    "training_average_log_likelihood_standardized": -3.660824796833568
+  },
+  {
+    "iteration": 10,
+    "training_average_log_likelihood_standardized": -3.6463255520181774
+  },
+  {
+    "iteration": 11,
+    "training_average_log_likelihood_standardized": -3.635761827003855
+  },
+  {
+    "iteration": 12,
+    "training_average_log_likelihood_standardized": -3.628296016613905
+  },
+  {
+    "iteration": 13,
+    "training_average_log_likelihood_standardized": -3.6231494004083515
+  },
+  {
+    "iteration": 14,
+    "training_average_log_likelihood_standardized": -3.6196690020842968
+  },
+  {
+    "iteration": 15,
+    "training_average_log_likelihood_standardized": -3.617349636056488
+  },
+  {
+    "iteration": 16,
+    "training_average_log_likelihood_standardized": -3.615821156550544
+  },
+  {
+    "iteration": 17,
+    "training_average_log_likelihood_standardized": -3.6148223912904536
+  },
+  {
+    "iteration": 18,
+    "training_average_log_likelihood_standardized": -3.6141739640815693
+  },
+  {
+    "iteration": 19,
+    "training_average_log_likelihood_standardized": -3.6137550632461894
+  },
+  {
+    "iteration": 20,
+    "training_average_log_likelihood_standardized": -3.613485473155616
+  },
+  {
+    "iteration": 21,
+    "training_average_log_likelihood_standardized": -3.6133124888444845
+  },
+  {
+    "iteration": 22,
+    "training_average_log_likelihood_standardized": -3.613201750712094
+  },
+  {
+    "iteration": 23,
+    "training_average_log_likelihood_standardized": -3.613130990863573
+  },
+  {
+    "iteration": 24,
+    "training_average_log_likelihood_standardized": -3.6130858429223367
+  },
+  {
+    "iteration": 25,
+    "training_average_log_likelihood_standardized": -3.6130570706052643
+  },
+  {
+    "iteration": 26,
+    "training_average_log_likelihood_standardized": -3.613038751986234
+  },
+  {
+    "iteration": 27,
+    "training_average_log_likelihood_standardized": -3.6130270982942188
+  },
+  {
+    "iteration": 28,
+    "training_average_log_likelihood_standardized": -3.6130196896244327
+  },
+  {
+    "iteration": 29,
+    "training_average_log_likelihood_standardized": -3.6130149824532167
+  },
+  {
+    "iteration": 30,
+    "training_average_log_likelihood_standardized": -3.613011993313169
+  },
+  {
+    "iteration": 31,
+    "training_average_log_likelihood_standardized": -3.613010096126346
+  },
+  {
+    "iteration": 32,
+    "training_average_log_likelihood_standardized": -3.6130088926134136
+  },
+  {
+    "iteration": 33,
+    "training_average_log_likelihood_standardized": -3.6130081295587817
+  },
+  {
+    "iteration": 34,
+    "training_average_log_likelihood_standardized": -3.6130076460554585
+  },
+  {
+    "iteration": 35,
+    "training_average_log_likelihood_standardized": -3.6130073398994083
+  },
+  {
+    "iteration": 36,
+    "training_average_log_likelihood_standardized": -3.6130071461992768
+  },
+  {
+    "iteration": 37,
+    "training_average_log_likelihood_standardized": -3.613007023770138
+  },
+  {
+    "iteration": 38,
+    "training_average_log_likelihood_standardized": -3.6130069464830425
+  }
+]

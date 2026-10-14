@@ -1,0 +1,24 @@
+{
+  "frozen16": {
+    "weights": [
+      0.4,
+      0.0,
+      0.0,
+      0.6
+    ],
+    "objective": 0.027110744793636243,
+    "success": true,
+    "solver": "scipy_highs_sparse"
+  },
+  "raw20003": {
+    "weights": [
+      0.6,
+      0.0,
+      0.0,
+      0.4
+    ],
+    "objective": 0.02910502729662846,
+    "success": true,
+    "solver": "scipy_highs_sparse"
+  }
+}

@@ -1,0 +1,8 @@
+Final validation, 2026-09-15
+Command from workspace parent:
+./q3_biqae_risk/.venv-biqae/Scripts/python.exe -m pytest q3_biqae_risk/tests -q
+Exit code: 0
+83 passed in 3.24s
+
+Includes shared-batch classical gradient checks, saturated VaR confidence-support
+regression, reliability confidence distinctions, and signed ES decomposition.

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "rows": 20,
+  "max_var_abs_bp": 5.283408712480862,
+  "max_es_abs_bp": 0.21149001848144722,
+  "max_tail_probability_abs_error": 0.0016204021009751934,
+  "max_relative_gradient_l2": 0.0040909857687809375,
+  "min_centered_cosine": 0.999045381717736,
+  "source_sha256": "01b933e0c4b7082e2a5e99a527810757016fdf7de6866f91533c1b06f25537e7"
+}

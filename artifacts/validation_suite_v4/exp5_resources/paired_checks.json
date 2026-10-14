@@ -1,0 +1,110 @@
+[
+  {
+    "states": 8,
+    "alpha": 0.95,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 8,
+    "alpha": 0.95,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 8,
+    "alpha": 0.975,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 8,
+    "alpha": 0.975,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 16,
+    "alpha": 0.95,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 16,
+    "alpha": 0.95,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 16,
+    "alpha": 0.975,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 16,
+    "alpha": 0.975,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 32,
+    "alpha": 0.95,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 32,
+    "alpha": 0.95,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 32,
+    "alpha": 0.975,
+    "method": "grid_biqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  },
+  {
+    "states": 32,
+    "alpha": 0.975,
+    "method": "iqae",
+    "var_difference": 0.0,
+    "es_difference": 0.0,
+    "query_difference": 0,
+    "cx_difference": 0
+  }
+]

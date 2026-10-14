@@ -1,0 +1,15 @@
+{
+  "status": "verified",
+  "trials": 4000,
+  "hash_files_checked": 6,
+  "rounds": 121225,
+  "total_A_calls": 218036947,
+  "total_shots": 19028101,
+  "v4_reproducibility_overlap": 600,
+  "v4_max_abs_differences": {
+    "var": 0.0,
+    "es": 0.0,
+    "A_calls": 0.0,
+    "shots": 0.0
+  }
+}

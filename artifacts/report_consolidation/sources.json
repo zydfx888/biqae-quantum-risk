@@ -1,0 +1,112 @@
+{
+  "generated_utc": "2026-09-15T08:33:37.251205+00:00",
+  "report": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\综合实验报告.md",
+  "chapters": [
+    {
+      "chapter": 1,
+      "source": "artifacts\\validation_suite_v3\\exp1_training\\报告.md",
+      "source_sha256": "b39467cdb00ec46cbe80407c1b1e4095f7c2c7bdf1fa99ea48dc296a154a3b8a"
+    },
+    {
+      "chapter": 2,
+      "source": "artifacts\\validation_suite_v3\\exp4_windows\\报告.md",
+      "source_sha256": "24654fa350d85bc1090471a35c0ae9c8452bf488556cec3ec948c0db2635dba0"
+    },
+    {
+      "chapter": 3,
+      "source": "artifacts\\validation_suite_v3\\exp2_precision\\报告.md",
+      "source_sha256": "99d2ea573efc8d2b6bd63245c1117f49817dbc5892ab9fac4e840f5ee2573e72"
+    },
+    {
+      "chapter": 4,
+      "source": "artifacts\\validation_suite_v4\\exp2_distributions\\报告.md",
+      "source_sha256": "b8b7380512b1f47220ab7baeeb1b4fc6febe143d695473dddbbd418ce7937861"
+    },
+    {
+      "chapter": 5,
+      "source": "artifacts\\validation_suite_v3\\exp3_ablation\\报告.md",
+      "source_sha256": "24c3be9068d8a8782ca3d6491b5c3af2af7ffe7113c1859a618a4f922568d07f"
+    },
+    {
+      "chapter": 6,
+      "source": "artifacts\\validation_suite_v4\\exp1_binning\\报告.md",
+      "source_sha256": "e0b5da76b3dc7362bc14d58091178479531cedbcbc263fd81a08b955aa3d5caf"
+    },
+    {
+      "chapter": 7,
+      "source": "artifacts\\validation_suite_v3\\exp5_quantum\\实验5报告.md",
+      "source_sha256": "4e12b850bd71b1841f68c4d65b30f401346d53d54805c82913f07588cc30e29d"
+    },
+    {
+      "chapter": 8,
+      "source": "artifacts\\validation_suite_v4\\exp3_variants\\报告.md",
+      "source_sha256": "53cb93031a766526a87c4b43c20e6302c76f9b14f3111260a24bcd47bb492ebb"
+    },
+    {
+      "chapter": 9,
+      "source": "artifacts\\validation_suite_v4\\exp4_controls\\报告.md",
+      "source_sha256": "ac376085fade36dc4635322919cd07efa9d33cbbd567fc9fb2eaf9c0a28d786c"
+    },
+    {
+      "chapter": 10,
+      "source": "artifacts\\validation_suite_v4\\exp5_resources\\实验5报告.md",
+      "source_sha256": "6c31355e22df83d1ac3f0b48e26daf765cebaec96a2ac448dff62b2ad3bda0d6"
+    },
+    {
+      "chapter": 11,
+      "source": "artifacts\\feasibility_trained_v2\\基线修正报告.md",
+      "source_sha256": "0d7b9cd6e3cb36e67595736c54b36d933248b8f3fc323580f990a4f3bd03609c"
+    },
+    {
+      "chapter": 12,
+      "source": "artifacts\\feasibility_trained_v2\\实验结果报告.md",
+      "source_sha256": "41dd59b0e6818eab6f7288e32192346674be5da60802d4fdb8cb3d2db44d6c37"
+    },
+    {
+      "chapter": 13,
+      "source": "VALIDATION.md",
+      "source_sha256": "fd62a350afe77053251482f5042efebd1b2b3ff032ab5de1224954ca4996f455"
+    },
+    {
+      "chapter": 14,
+      "source": "artifacts\\runs\\biqae_20260915T020054_5e86b33b\\report.md",
+      "source_sha256": "d0e48d2db6775e780ffc82178d81f9bedd81627421b3ace78844072bc468c2c9"
+    },
+    {
+      "chapter": 15,
+      "source": "artifacts\\runs\\biqae_20260915T020054_cece11d5\\report.md",
+      "source_sha256": "2d16edbf9fb7f3742e5de565850e772a55f4eaa8fb71493e3ca463adf1a4c606"
+    },
+    {
+      "chapter": 16,
+      "source": "artifacts\\runs\\biqae_20260915T020119_777231b5\\report.md",
+      "source_sha256": "cbfbb6661bce921b7d129caf6732d8a132a8862d29a96fb2e59470497140ebcd"
+    },
+    {
+      "chapter": 17,
+      "source": "artifacts\\runs\\biqae_20260915T020423_ccdfacd5\\report.md",
+      "source_sha256": "dc1777e821d01c74f93f1acfcc28ae9399d4a2fed181ed95c3955fb7e885e52c"
+    },
+    {
+      "chapter": 18,
+      "source": "artifacts\\runs\\biqae_20260915T020447_b53e5ab5\\report.md",
+      "source_sha256": "5ddcc33a87595cd26c21e45e0d776ca17588cc5651a48b3248447ab47f9e2279"
+    },
+    {
+      "chapter": 19,
+      "source": "artifacts\\runs\\biqae_20260915T020453_de74e262\\report.md",
+      "source_sha256": "b096adbfe7a1469e9ac422ce5ed7577891b614d3f54e5b0e58ba595e17f039a1"
+    },
+    {
+      "chapter": 20,
+      "source": "artifacts\\runs\\biqae_20260915T020652_bbbd2a86\\report.md",
+      "source_sha256": "de0de632db37013f242bb46552c06258632ada7ddf633533f6748086cb6d7321"
+    },
+    {
+      "chapter": 21,
+      "source": "artifacts\\runs\\biqae_20260915T020853_792d1100\\report.md",
+      "source_sha256": "6bddd5f33deb254890c629e6427b094d07918664741e91b4526e90c0c13ff9a9"
+    }
+  ],
+  "report_sha256": "af9338e90b81c1a1fdd048984d6354bbadaf004ed99620ec49e10a8923f5c6da"
+}

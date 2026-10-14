@@ -1,0 +1,134 @@
+[
+  {
+    "iteration": 0,
+    "training_average_log_likelihood_standardized": -5.264644038553233
+  },
+  {
+    "iteration": 1,
+    "training_average_log_likelihood_standardized": -4.197281546745416
+  },
+  {
+    "iteration": 2,
+    "training_average_log_likelihood_standardized": -4.105967742347512
+  },
+  {
+    "iteration": 3,
+    "training_average_log_likelihood_standardized": -3.9368787336450843
+  },
+  {
+    "iteration": 4,
+    "training_average_log_likelihood_standardized": -3.8026427146225714
+  },
+  {
+    "iteration": 5,
+    "training_average_log_likelihood_standardized": -3.743237554816836
+  },
+  {
+    "iteration": 6,
+    "training_average_log_likelihood_standardized": -3.7101485552886064
+  },
+  {
+    "iteration": 7,
+    "training_average_log_likelihood_standardized": -3.6878011642467525
+  },
+  {
+    "iteration": 8,
+    "training_average_log_likelihood_standardized": -3.672031488548533
+  },
+  {
+    "iteration": 9,
+    "training_average_log_likelihood_standardized": -3.661031819951201
+  },
+  {
+    "iteration": 10,
+    "training_average_log_likelihood_standardized": -3.653585017613648
+  },
+  {
+    "iteration": 11,
+    "training_average_log_likelihood_standardized": -3.6486990154449366
+  },
+  {
+    "iteration": 12,
+    "training_average_log_likelihood_standardized": -3.6455784363357533
+  },
+  {
+    "iteration": 13,
+    "training_average_log_likelihood_standardized": -3.6436276104915475
+  },
+  {
+    "iteration": 14,
+    "training_average_log_likelihood_standardized": -3.6424277851231595
+  },
+  {
+    "iteration": 15,
+    "training_average_log_likelihood_standardized": -3.641698751485603
+  },
+  {
+    "iteration": 16,
+    "training_average_log_likelihood_standardized": -3.6412597181380755
+  },
+  {
+    "iteration": 17,
+    "training_average_log_likelihood_standardized": -3.6409970578683715
+  },
+  {
+    "iteration": 18,
+    "training_average_log_likelihood_standardized": -3.640840677272495
+  },
+  {
+    "iteration": 19,
+    "training_average_log_likelihood_standardized": -3.6407479087539967
+  },
+  {
+    "iteration": 20,
+    "training_average_log_likelihood_standardized": -3.640693025919283
+  },
+  {
+    "iteration": 21,
+    "training_average_log_likelihood_standardized": -3.6406606238586083
+  },
+  {
+    "iteration": 22,
+    "training_average_log_likelihood_standardized": -3.6406415247395296
+  },
+  {
+    "iteration": 23,
+    "training_average_log_likelihood_standardized": -3.6406302811338422
+  },
+  {
+    "iteration": 24,
+    "training_average_log_likelihood_standardized": -3.640623668831975
+  },
+  {
+    "iteration": 25,
+    "training_average_log_likelihood_standardized": -3.640619783543372
+  },
+  {
+    "iteration": 26,
+    "training_average_log_likelihood_standardized": -3.6406175023732534
+  },
+  {
+    "iteration": 27,
+    "training_average_log_likelihood_standardized": -3.640616164019318
+  },
+  {
+    "iteration": 28,
+    "training_average_log_likelihood_standardized": -3.6406153794080365
+  },
+  {
+    "iteration": 29,
+    "training_average_log_likelihood_standardized": -3.640614919813055
+  },
+  {
+    "iteration": 30,
+    "training_average_log_likelihood_standardized": -3.6406146508621746
+  },
+  {
+    "iteration": 31,
+    "training_average_log_likelihood_standardized": -3.6406144936611624
+  },
+  {
+    "iteration": 32,
+    "training_average_log_likelihood_standardized": -3.640614401914526
+  }
+]

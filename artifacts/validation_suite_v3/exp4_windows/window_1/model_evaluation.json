@@ -1,0 +1,10 @@
+{
+  "model_sha256": "9020e1f8fbb6200ee37ef8101ed93a08b477074145e9393414074c24d7016173",
+  "log_density": {
+    "train": 13.172609622647387,
+    "validation": 13.923161427580425,
+    "test": 14.658905401243064
+  },
+  "reloaded_policy_count": 53,
+  "test_used_for_selection": false
+}

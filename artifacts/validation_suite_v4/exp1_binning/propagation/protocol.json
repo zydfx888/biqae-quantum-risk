@@ -1,0 +1,75 @@
+{
+  "created_utc": "2026-09-15T08:07:55.091705+00:00",
+  "gate_sha256": "f57ab0c468081af470a80936f29092ac474b3f1a45a3fe709a8a598c371c57a4",
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.005,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 128,
+    "max_grover_power": 15,
+    "max_rounds": 16,
+    "budget": 8192,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 2049,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 120,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "scale": "common raw-model equal-weight loss standard deviation fixed for all optimizers",
+  "scale_value": 0.011063900417212736,
+  "learning_rate": 0.3,
+  "sampling_seeds": [
+    300,
+    301,
+    302
+  ],
+  "representations": [
+    "raw_reference",
+    "original64",
+    "static_actual64",
+    "adaptive_actual64"
+  ],
+  "controls": "failed static compressions retained as diagnostic controls, not promoted as validated schemes",
+  "final_policy": "average of 120 projected updates; all serialized policies reloaded before heldout evaluation",
+  "test_selection": false,
+  "adaptive_cost": "every update sorts and recompresses all 20003 raw scenarios; classical cost explicitly counted",
+  "source_sha256": "4d0ff3caaef1c1a9e0998cbaa6f5e7ca9daf55394b1160540f566ec9d769a04f"
+}

@@ -1,0 +1,16 @@
+{
+  "scope": "四版本同一已训练GMM及16状态冻结表；Normal/Beta为既有依赖网格的工程矩匹配版本，不是论文原版重现。",
+  "execution": {"fresh_risk_trials": 2400, "fresh_amplitude_trials": 2800, "extra_timing_trials": 80, "failures": 0, "main_runtime_s": 52.8793948},
+  "results": [
+    "65536预算下，两种风险水平和四版本均100/100达到VaR与ES联合5bp及10bp目标；单配置CP95%下界96.378%。",
+    "65536预算下，95%水平的网格/Normal/Beta ES MAE分别0.5091/0.4934/0.4936bp，97.5%分别0.6407/0.6483/0.6431bp。Normal/Beta相对网格的ES误差配对边际bootstrap区间均包含零。",
+    "4096预算下，95%水平网格/Normal/Beta联合5bp成功率54%/46%/58%，97.5%为1%/0%/1%；16384预算对应28%/28%/32%及4%/3%/4%。更高预算并未在每个配置单调改善VaR误差，有限搜索预算和离散阈值决策仍限制风险任务。",
+    "低预算风险区间覆盖虽100%，平均ES区间宽度约389至485bp，不能把覆盖当作高精度。65536预算下三BIQAE覆盖均100%，IQAE的95%水平ES覆盖99%。",
+    "七个已知振幅每方法700次，四方法均100%达到0.005误差目标，覆盖均699/700；这不是每个振幅均699/700。",
+    "独立全似然回放隔离投影影响：Normal平均绝对投影差8.54e-6、最大1.40e-4；Beta平均9.58e-7、最大2.81e-5。网格回放最大差2.82e-14。当前点集未发现投影造成明显失校，不代表罕见振幅和不同预算同样可靠。",
+    "额外10种子计时，97.5%风险任务非采样时间网格19.075ms、Normal23.937ms、Beta29.296ms；工程矩匹配没有降低后处理成本。非采样时间包含初始化、调度与后验更新，并非纯后验CPU时间。"
+  ],
+  "conclusion": "现有工程Normal/Beta与网格达到相近高预算精度，没有一致的精度、可靠性或计算成本优势。低预算成功率不足主要表现为VaR搜索未解决；分箱偏差不包含在上述误差内。不能据此证明论文算法或量子硬件优势。",
+  "statistics": "配对bootstrap区间为描述性边际区间，未作多重比较优势宣称。逐配置CP区间也不构成全网格同时95%保证。",
+  "files": ["risk_summary.csv", "amplitude_summary.csv", "amplitude_aggregate.csv", "risk_paired.csv", "amplitude_paired.csv", "posterior_projection_summary.csv", "timing_summary.csv", "independent_audit.json"]
+}

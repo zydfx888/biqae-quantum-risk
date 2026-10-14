@@ -1,0 +1,120 @@
+{
+  "oracle": {
+    "target_probability": 0.002777778252039833,
+    "probability_error": 1.2130053905767824e-15,
+    "inverse_error": 5.28897856580918e-14
+  },
+  "amplified": [
+    {
+      "grover_power": 0,
+      "probability_error": 1.2134390714457766e-15,
+      "depth": 56,
+      "cx_gates": 35,
+      "qubits": 5,
+      "compile_and_simulate_s": 0.10889920000045095
+    },
+    {
+      "grover_power": 1,
+      "probability_error": 1.8329088247170944e-14,
+      "depth": 227,
+      "cx_gates": 141,
+      "qubits": 5,
+      "compile_and_simulate_s": 0.1658638999942923
+    },
+    {
+      "grover_power": 3,
+      "probability_error": 2.0694557179012918e-13,
+      "depth": 569,
+      "cx_gates": 353,
+      "qubits": 5,
+      "compile_and_simulate_s": 0.4621097999988706
+    },
+    {
+      "grover_power": 7,
+      "probability_error": 1.6981971384666394e-12,
+      "depth": 1253,
+      "cx_gates": 777,
+      "qubits": 5,
+      "compile_and_simulate_s": 0.6422773000012967
+    }
+  ],
+  "actual_full_circuit_BIQAE": {
+    "truth": 0.002777778252041046,
+    "estimate": 0.0031472994550957594,
+    "interval": [
+      0.0024631477494955977,
+      0.00387661400161637
+    ],
+    "resources": {
+      "samples": 0,
+      "shots_total": 768,
+      "grover_applications": 2560,
+      "oracle_A_calls": 5888,
+      "A_forward_calls": 3328,
+      "A_inverse_calls": 2560,
+      "max_grover_power": 7,
+      "max_depth": 1253,
+      "max_two_qubit_gates": 777,
+      "total_two_qubit_gates": 298240,
+      "qubits": 5,
+      "runtime_ms": 587.6293999972404,
+      "compilation_ms": 453.67569999507396
+    },
+    "rounds": [
+      {
+        "k": 0,
+        "shots": 256,
+        "successes": 1,
+        "oracle_A_calls_cumulative": 256,
+        "raw_counts": null,
+        "theta_interval": [
+          0.012077150181605868,
+          0.19227589892302674
+        ],
+        "amplitude_interval": [
+          0.00014585046517137697,
+          0.03651666700422782
+        ],
+        "branch": 0,
+        "grid_size": 4097,
+        "posterior_entropy": 5.763591181205404
+      },
+      {
+        "k": 3,
+        "shots": 256,
+        "successes": 45,
+        "oracle_A_calls_cumulative": 2048,
+        "raw_counts": null,
+        "theta_interval": [
+          0.0485003015229569,
+          0.07687201940990401
+        ],
+        "amplitude_interval": [
+          0.002350435420308338,
+          0.005897676564318449
+        ],
+        "branch": 0,
+        "grid_size": 4097,
+        "posterior_entropy": 3.8601068203319366
+      },
+      {
+        "k": 7,
+        "shots": 256,
+        "successes": 137,
+        "oracle_A_calls_cumulative": 5888,
+        "raw_counts": null,
+        "theta_interval": [
+          0.049650506302157456,
+          0.0623027588733636
+        ],
+        "amplitude_interval": [
+          0.0024631477494955977,
+          0.00387661400161637
+        ],
+        "branch": 0,
+        "grid_size": 4097,
+        "posterior_entropy": 2.9997580959111083
+      }
+    ]
+  }
+}

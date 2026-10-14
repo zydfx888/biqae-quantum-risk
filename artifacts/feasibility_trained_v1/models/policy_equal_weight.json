@@ -1,0 +1,10 @@
+{
+  "method": "equal_weight",
+  "seed": 0,
+  "weights": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ]
+}

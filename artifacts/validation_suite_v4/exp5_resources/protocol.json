@@ -1,0 +1,91 @@
+{
+  "created_utc": "2026-09-15T08:04:37.705369+00:00",
+  "states": [
+    8,
+    16,
+    32
+  ],
+  "alphas": [
+    0.95,
+    0.975
+  ],
+  "methods": [
+    "iqae",
+    "grid_biqae"
+  ],
+  "seeds": [
+    700,
+    701,
+    702
+  ],
+  "statevector_seeds": [
+    700
+  ],
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.0002,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 256,
+    "max_grover_power": 31,
+    "max_rounds": 32,
+    "budget": 65536,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 4097,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 25,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "source_hashes": {
+    "artifacts\\feasibility_trained_v2\\models\\trained_risk_model.npz": "aa73b7209082c686b2a10c2a5e6f13c16ccab954b2be3eeb709c499d2c8d6ef4",
+    "artifacts\\feasibility_trained_v2\\generated_scenarios.npz": "10e4fd2ac83e43fcf94e12d5280648c696638013dd8832cc128f58e036c79c59",
+    "artifacts\\feasibility_trained_v2\\models\\policy_lp.json": "3693391a7c9b42ae5384be6ebc067d698e6cd0292ea1a6c830e700b512ae7b8b",
+    "src\\q3_biqae\\suite_v4_resources.py": "f562c6e63336437891aead5986e397dd06cb58e9d561b1096a3ecdf7fa32f4c9",
+    "src\\q3_biqae\\tail_oracle.py": "51519cb40975b5cd30b0bef5503031f22795de3db4611390b885dcadc7d81f9f",
+    "src\\q3_biqae\\measurement.py": "17ffca3ac4a7e2819f8e1918bd7efdcbdfa9d2ec27bd5f7701dd5d9d4fbc6647",
+    "src\\q3_biqae\\var_search.py": "04d1965de8ad76cd7e02a4ae681a435207bc8805cc7e6c2571488063cb5916b8",
+    "src\\q3_biqae\\es_estimation.py": "5d0303f4fe0bdad687ab53ae9b6609c198db20f9f765b893265b7ba5ff903aa3"
+  },
+  "execution": "36 analytic finite-shot full risk runs; 12 independently executed full statevector finite-shot risk runs. Every logged threshold/payload/power compiled and statevector checked, cached across identical circuits.",
+  "compilation": "u/cx basis, optimization_level=1, seed_transpiler=0; no hardware routing or gate duration model.",
+  "lookup": "CDF and excess payload implemented as classically computed table-controlled rotations, not general arithmetic/comparison registers. Classical table construction timed separately.",
+  "cost": "Per-round compiled gates and depth times shots; A forward k+1 and inverse k. Separately compiled loading/lookup blocks are descriptive and not additive after whole-circuit optimization.",
+  "failure": "Retain exceptions, no seed replacement; accuracy reference is exact discrete table, not uncompressed population."
+}

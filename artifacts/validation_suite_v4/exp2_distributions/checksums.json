@@ -1,0 +1,17 @@
+{
+  "environment.json": "57f7e24e34af39fdefbc10af1c8b69d19d83ea5ae3911760d33deb3e34538432",
+  "exact_truths.csv": "666693b350654f6c65a0d3d35938cc75a3f0568120415f55e8c9df4c5e227fa0",
+  "frozen_stress_mixture.npz": "773591ea0b0cfc7aaa053860b2f38a394bb1be989daaa8593e6889ae0903d22c",
+  "frozen_student_t_df4.npz": "2538a026606e2ffbd753303ee7d9975ee2e422cfc4069d332649220fdbe7a5b6",
+  "generated_stress_mixture.npz": "552b7a82f281a2dfbc98c15539b7dcf519910930654684d25339e66243e6e046",
+  "generated_student_t_df4.npz": "ee1679da34a64b47bdbf97e9256a0fcaf3b9c67e6fe94d3abc6b31b8a04798e1",
+  "generation_parameters.json": "633df67aba7fb002dacd6393bb0cf763740c85db67c2a372dc1b1e0b13ab3aaf",
+  "matched_queries.csv": "6b2703262ea01b02f9a79859ab0b4739dc776aebcfc7f663b0b8f168db23db34",
+  "protocol.json": "86d0d8134a56e7dd3b4a9a82d0c478eae51be049eab1a8a4d0366ff15757b107",
+  "results.csv": "148f0806283e24e2c70bb1cd89b3ef9b9d56be38ef42dfbfe10399f2d2bccc9d",
+  "rounds.parquet": "a7a40dc336e766b9b3b8d8ccfb2cb25ab3c15dd1121b248cd3c366727b131529",
+  "status.json": "873c80ca09714f18f1c2541908456b9357aa2a6d0a630a69c6475d46d468b3d6",
+  "summary.csv": "6b116e4ba9ba1b9ae8461af62498b75d9d417e0b40f0832efadc016d427fee15",
+  "verification.json": "6ae376ca5a0b83a80345cb0e1f52b1f0950ac3a9c887fe8e2ae41344a0fc7722",
+  "报告.md": "b8b7380512b1f47220ab7baeeb1b4fc6febe143d695473dddbbd418ce7937861"
+}

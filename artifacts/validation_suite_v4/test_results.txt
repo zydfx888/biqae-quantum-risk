@@ -1,0 +1,9 @@
+Final algorithm tests, 2026-09-15
+Command from workspace parent:
+./q3_biqae_risk/.venv-biqae/Scripts/python.exe -m pytest q3_biqae_risk/tests -q
+Exit code: 0
+90 passed in 3.43s
+
+New tests cover unchanged default interval stopping, explicit fixed-budget
+stopping, budget accounting, bin probability/asset-mean preservation,
+anchor ES/gradient structural exactness and cross-weight counterexample.

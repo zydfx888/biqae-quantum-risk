@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "trials": 4800,
+  "paired_trials": 2400,
+  "failed_trials": 0,
+  "all_budgets_reconstructed": true,
+  "runtime_s": 98.57785909999802
+}

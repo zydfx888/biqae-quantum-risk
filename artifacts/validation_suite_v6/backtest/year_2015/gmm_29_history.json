@@ -1,0 +1,90 @@
+[
+  {
+    "iteration": 0,
+    "training_average_log_likelihood_standardized": -4.2391774653004735
+  },
+  {
+    "iteration": 1,
+    "training_average_log_likelihood_standardized": -3.701567780902927
+  },
+  {
+    "iteration": 2,
+    "training_average_log_likelihood_standardized": -3.673641706378346
+  },
+  {
+    "iteration": 3,
+    "training_average_log_likelihood_standardized": -3.6689089406689757
+  },
+  {
+    "iteration": 4,
+    "training_average_log_likelihood_standardized": -3.667638827874186
+  },
+  {
+    "iteration": 5,
+    "training_average_log_likelihood_standardized": -3.6671384238676796
+  },
+  {
+    "iteration": 6,
+    "training_average_log_likelihood_standardized": -3.666891852455054
+  },
+  {
+    "iteration": 7,
+    "training_average_log_likelihood_standardized": -3.6667572541375844
+  },
+  {
+    "iteration": 8,
+    "training_average_log_likelihood_standardized": -3.6666807502649603
+  },
+  {
+    "iteration": 9,
+    "training_average_log_likelihood_standardized": -3.6666366028467636
+  },
+  {
+    "iteration": 10,
+    "training_average_log_likelihood_standardized": -3.6666109809429925
+  },
+  {
+    "iteration": 11,
+    "training_average_log_likelihood_standardized": -3.6665960767703947
+  },
+  {
+    "iteration": 12,
+    "training_average_log_likelihood_standardized": -3.6665873980961528
+  },
+  {
+    "iteration": 13,
+    "training_average_log_likelihood_standardized": -3.66658234149628
+  },
+  {
+    "iteration": 14,
+    "training_average_log_likelihood_standardized": -3.6665793938894793
+  },
+  {
+    "iteration": 15,
+    "training_average_log_likelihood_standardized": -3.666577674833466
+  },
+  {
+    "iteration": 16,
+    "training_average_log_likelihood_standardized": -3.6665766717096098
+  },
+  {
+    "iteration": 17,
+    "training_average_log_likelihood_standardized": -3.6665760859482184
+  },
+  {
+    "iteration": 18,
+    "training_average_log_likelihood_standardized": -3.6665757435990334
+  },
+  {
+    "iteration": 19,
+    "training_average_log_likelihood_standardized": -3.6665755432866356
+  },
+  {
+    "iteration": 20,
+    "training_average_log_likelihood_standardized": -3.6665754259112853
+  },
+  {
+    "iteration": 21,
+    "training_average_log_likelihood_standardized": -3.6665753570051427
+  }
+]

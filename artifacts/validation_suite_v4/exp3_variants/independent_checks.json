@@ -1,0 +1,8 @@
+{
+  "risk_ledgers_verified": 800,
+  "budget_violations": 0,
+  "risk_exceptions": 0,
+  "tests": "90 passed (full suite at execution)",
+  "audit_source_sha256": "5320217a939b6a22e03c6fcbb341fc77fe761f125010e70acaf27daaae4ffbc1",
+  "amplitude_ledgers_verified": 840
+}

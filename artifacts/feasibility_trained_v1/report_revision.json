@@ -1,0 +1,21 @@
+{
+  "reason": "classical portfolio training baseline corrected; scientific results and model files unchanged",
+  "replacement": "../feasibility_trained_v2/基线修正报告.md",
+  "archived_reports": [
+    {
+      "entry": "结果简报.md",
+      "archived_original": "legacy_reports\\结果简报.md",
+      "original_sha256": "6ef63ad0e7d5f0749457a2fe934daf2229e3e3772fad0a3c57640b6033583cf2"
+    },
+    {
+      "entry": "实验结果报告.md",
+      "archived_original": "legacy_reports\\实验结果报告.md",
+      "original_sha256": "1dbdd3b4f8c5d621d10475216eb7ea157747999dd8f0c0ac075d05181cda3fd3"
+    },
+    {
+      "entry": "实验结果报告.html",
+      "archived_original": "legacy_reports\\实验结果报告.html",
+      "original_sha256": "b05a0fd0ef481ffabebdddad8b2fb755c83645fb268d2c7220259351f51f9ae3"
+    }
+  ]
+}

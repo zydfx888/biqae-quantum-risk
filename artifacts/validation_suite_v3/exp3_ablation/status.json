@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "runtime_s": 11.447046699991915,
+  "trials": 900,
+  "failed_trials": 0,
+  "decomposition_max_residual_bp": 3.552713678800501e-15
+}

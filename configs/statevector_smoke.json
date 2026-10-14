@@ -1,0 +1,14 @@
+{
+  "assets": 4,
+  "states": 8,
+  "scenarios": 1000,
+  "alpha": 0.95,
+  "budget": 256,
+  "shots_per_round": 32,
+  "max_rounds": 4,
+  "max_grover_power": 1,
+  "methods": ["iqae", "beta_biqae"],
+  "seeds": [13],
+  "backend": "qiskit_statevector"
+}
+

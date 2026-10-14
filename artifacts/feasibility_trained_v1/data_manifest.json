@@ -1,0 +1,29 @@
+{
+  "source": "Kenneth French 5 Industry Portfolios daily, value weighted",
+  "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/5_Industry_Portfolios_daily_CSV.zip",
+  "raw_sha256": "1a81f6efdce2b2c17283ecbe83b903e385464fe889e79eef6bfe406c575fdbe1",
+  "assets": [
+    "Cnsmr",
+    "Manuf",
+    "HiTec",
+    "Hlth"
+  ],
+  "splits": {
+    "train": {
+      "rows": 4528,
+      "first": "2000-01-03",
+      "last": "2017-12-29"
+    },
+    "validation": {
+      "rows": 756,
+      "first": "2018-01-02",
+      "last": "2020-12-31"
+    },
+    "test": {
+      "rows": 1255,
+      "first": "2021-01-04",
+      "last": "2025-12-31"
+    }
+  },
+  "note": "Original scheme's six-industry download was 404; official five-industry first four selected before training."
+}

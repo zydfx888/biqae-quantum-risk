@@ -1,0 +1,11 @@
+{
+  "checked_utc": "2026-09-16T01:48:09.095582+00:00",
+  "report_sha256": "bf34d4ecdd0a1809a9568fa4061d6eb00323af19552f380135a7cfc31c0e4e2a",
+  "retained_v3_v4_snapshot_entries_verified": 917,
+  "historical_report_entries_accounted_for": 12,
+  "unexpected_evidence_changes": [],
+  "broken_report_file_links": [],
+  "deleted_reports": 31,
+  "planned_reports": 31,
+  "status": "pass"
+}

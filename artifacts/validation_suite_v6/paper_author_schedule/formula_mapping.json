@@ -1,0 +1,22 @@
+{
+  "source": "https://arxiv.org/html/2507.23074v2",
+  "author_code": "https://github.com/Kirin0570/BIQAE/blob/main/src/biae.py",
+  "mappings": {
+    "Eq4/15": "inverse: odd quadrant reverses endpoints",
+    "Eq20 Algorithm1": "normal_update: analytic precision addition with cumulative stage data",
+    "Eq21 Algorithm2": "normal quantile clipped to [0,1]",
+    "Algorithm3": "normal_prior: delta-method transformed mean and variance",
+    "Eq25 Algorithm4": "Beta prior shapes plus cumulative successes/failures",
+    "Algorithm5": "scipy Beta equal-tail quantiles then inverse branch",
+    "Algorithm6": "1000 independent posterior Beta draws, transformed, scipy maximum likelihood Beta fit; no posterior grid"
+  },
+  "distinctions": [
+    "Paper itself approximates transported Normal/Beta families; not exact Bayesian equivalence.",
+    "Normal initial noninformative variance infinity; boundary sample means use Eq20 zero-variance limit and are logged. No pseudo-count repair.",
+    "Unmodified authors FindNextK executed; proposals above external cap31 are rejected and current stage continues.",
+    "External cap k31 and A-call budget65536 shared; paper native unrestricted scaling theorem not tested.",
+    "Paper per-stage alpha spending used; repeated looks and approximate priors do not establish frequentist 95% coverage.",
+    "IQAE-CP uses the same cumulative-stage schedule as paper variants; grid retains its original scheduler. Comparison concerns complete algorithms.",
+    "Author code only exposes Beta; Normal implemented from paper Algorithms1-3, not claimed byte-for-byte author reproduction."
+  ]
+}

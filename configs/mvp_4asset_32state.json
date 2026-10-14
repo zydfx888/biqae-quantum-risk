@@ -1,0 +1,16 @@
+{
+  "dataset": "synthetic_normal",
+  "assets": 4,
+  "states": 32,
+  "alpha": 0.95,
+  "epsilon": 0.01,
+  "failure_probability": 0.05,
+  "methods": ["mc", "sobol", "is", "mlae", "iqae", "grid_biqae", "normal_biqae", "beta_biqae"],
+  "budget": 8192,
+  "shots_per_round": 100,
+  "max_rounds": 12,
+  "max_grover_power": 15,
+  "grid_size": 8193,
+  "seeds": [13, 29, 43, 71, 101],
+  "backend": "analytic_shots"
+}

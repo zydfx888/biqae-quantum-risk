@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "train_rows": 3019,
+  "train_first": "2000-01-03",
+  "train_last": "2011-12-30",
+  "validation_rows": 502,
+  "validation_first": "2012-01-03",
+  "validation_last": "2013-12-31",
+  "test_first": "2014-01-02",
+  "gmm_candidates": [
+    {
+      "seed": 13,
+      "validation_log_density": 15.274448822523123,
+      "iterations": 27
+    },
+    {
+      "seed": 29,
+      "validation_log_density": 15.274561351850492,
+      "iterations": 26
+    },
+    {
+      "seed": 43,
+      "validation_log_density": 15.274560696857055,
+      "iterations": 33
+    }
+  ],
+  "selected_gmm_seed": 29,
+  "learning_rates": [
+    {
+      "rate": 0.03,
+      "validation_es": 0.01789794602836899
+    },
+    {
+      "rate": 0.1,
+      "validation_es": 0.017549263998066396
+    },
+    {
+      "rate": 0.3,
+      "validation_es": 0.01749079485479973
+    }
+  ],
+  "selected_rate": 0.3,
+  "test_used_for_selection": false,
+  "model_sha256": "385cd75c0d2e755f9eb422c4b649769f156db2fa46a4f08e0303add692326b16"
+}

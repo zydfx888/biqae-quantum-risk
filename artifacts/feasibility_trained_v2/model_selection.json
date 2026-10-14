@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "seed": 13,
+      "iterations": 27,
+      "train_log_density": 13.93370891229725,
+      "validation_log_density": 13.791824941056824
+    },
+    {
+      "seed": 29,
+      "iterations": 19,
+      "train_log_density": 13.933708914307028,
+      "validation_log_density": 13.79182590644863
+    },
+    {
+      "seed": 43,
+      "iterations": 30,
+      "train_log_density": 13.933708927572791,
+      "validation_log_density": 13.791832608739465
+    }
+  ],
+  "selected": {
+    "seed": 43,
+    "iterations": 30,
+    "train_log_density": 13.933708927572791,
+    "validation_log_density": 13.791832608739465
+  }
+}

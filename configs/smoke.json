@@ -1,0 +1,14 @@
+{
+  "assets": 4,
+  "states": 8,
+  "scenarios": 1000,
+  "alpha": 0.95,
+  "budget": 2048,
+  "shots_per_round": 64,
+  "max_rounds": 8,
+  "max_grover_power": 7,
+  "grid_size": 2049,
+  "seeds": [13],
+  "optimization_steps": 8
+}
+

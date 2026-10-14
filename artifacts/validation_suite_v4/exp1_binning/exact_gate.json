@@ -1,0 +1,279 @@
+{
+  "frozen_compression": [
+    {
+      "method": "original_equal_tail90",
+      "states": 16,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 16,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 16,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 32,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 32,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 32,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 64,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 64,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "original_equal_tail90",
+      "states": 64,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 16,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 16,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 16,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 32,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 32,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 32,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 64,
+      "scope": "anchor",
+      "passed": true
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 64,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail90_offgrid_actual",
+      "states": 64,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 16,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 16,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 16,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 32,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 32,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 32,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 64,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 64,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "tail95_actual",
+      "states": 64,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 16,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 16,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 16,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 32,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 32,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 32,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 64,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 64,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_mass_actual",
+      "states": 64,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 16,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 16,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 16,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 32,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 32,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 32,
+      "scope": "all",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 64,
+      "scope": "anchor",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 64,
+      "scope": "cross_weight",
+      "passed": false
+    },
+    {
+      "method": "uniform_width_actual",
+      "states": 64,
+      "scope": "all",
+      "passed": false
+    }
+  ],
+  "current_weight_32_passed": false,
+  "elapsed_seconds": 4.2874888999940595,
+  "rows": 300,
+  "current_weight_probe_rows": 20,
+  "source_sha256": "9052913ddd74de0cc1b8c03a9b1763b05896e7ac6db0aac8c2bbff29a87d929b"
+}

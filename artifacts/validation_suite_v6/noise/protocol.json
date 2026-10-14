@@ -1,0 +1,107 @@
+{
+  "created_utc": "2026-09-16T01:33:59.861771+00:00",
+  "states": [
+    8,
+    16
+  ],
+  "alphas": [
+    0.95,
+    0.975
+  ],
+  "seeds": [
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126,
+    1127,
+    1128,
+    1129
+  ],
+  "methods": [
+    "iqae",
+    "grid_biqae"
+  ],
+  "noise": [
+    0,
+    0.0001,
+    0.001,
+    0.01
+  ],
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.0005,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 256,
+    "max_grover_power": 7,
+    "max_rounds": 32,
+    "budget": 16384,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 4097,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 25,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "noise_model": "Aer density matrix: depolarizing lambda applied after each compiled u and cx gate, including preparation, Grover A and inverse A. No readout noise. Exact noisy marginal cached, binomial independent finite shots per actual adaptive round. Zero noise is ideal circuit finite shots; exact risk reference has no sampling.",
+  "source_hash": "aa73b7209082c686b2a10c2a5e6f13c16ccab954b2be3eeb709c499d2c8d6ef4"
+}

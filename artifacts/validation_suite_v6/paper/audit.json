@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "inverse_cases": 1000,
+  "inverse_max_residual": 1.4876988529977098e-14,
+  "delta_variance_max_residual": 1.0223434620572347e-11,
+  "normal_quadrature_mean_error": 5.551115123125783e-17,
+  "beta_mle_max_score": 5.740459219083505e-10,
+  "rounds": 76310,
+  "query_mismatches": 0,
+  "branch_errors": 0,
+  "author_transform_max_difference": 2.7644553313166398e-14,
+  "author_scheduler_mismatches_within_cap": 121,
+  "grid_imports_in_paper_module": false
+}

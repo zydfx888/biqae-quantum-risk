@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-09-15T07:37:18.028946+00:00",
+  "wall_seconds": 79.67867359999218,
+  "retrained_gmm_candidates": 9,
+  "retrained_sampled_policies": 150,
+  "windows": 3
+}

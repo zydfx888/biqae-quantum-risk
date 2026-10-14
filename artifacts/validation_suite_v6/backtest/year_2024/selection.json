@@ -1,0 +1,45 @@
+{
+  "year": 2024,
+  "train_rows": 5536,
+  "train_first": "2000-01-03",
+  "train_last": "2021-12-31",
+  "validation_rows": 501,
+  "validation_first": "2022-01-03",
+  "validation_last": "2023-12-29",
+  "test_first": "2024-01-02",
+  "gmm_candidates": [
+    {
+      "seed": 13,
+      "validation_log_density": 12.841868412798991,
+      "iterations": 25
+    },
+    {
+      "seed": 29,
+      "validation_log_density": 12.841861952027234,
+      "iterations": 25
+    },
+    {
+      "seed": 43,
+      "validation_log_density": 12.841869157197262,
+      "iterations": 21
+    }
+  ],
+  "selected_gmm_seed": 43,
+  "learning_rates": [
+    {
+      "rate": 0.03,
+      "validation_es": 0.03115512912690043
+    },
+    {
+      "rate": 0.1,
+      "validation_es": 0.03180214452620831
+    },
+    {
+      "rate": 0.3,
+      "validation_es": 0.03253146380591016
+    }
+  ],
+  "selected_rate": 0.03,
+  "test_used_for_selection": false,
+  "model_sha256": "c300059021c739aad0851e5c16c6997d9ecb51c03f1981d1f10f7d307718b279"
+}

@@ -1,0 +1,17 @@
+{
+  "amplitude_aggregate.csv": "d0945337b81ec818fcf85b1ae4fd5e9b27bb8412a8645fedb099c1d111e9d29b",
+  "amplitude_results.csv": "4de23c33906c0813ae4b3bfb6e4e5da4599367092e7ffa716de1757b2c6a9965",
+  "amplitude_rounds.parquet": "c04691b74ff8f2a7173d36c30c28c1fcfc0b4105427e0de5ce2ed4e1c1930ab1",
+  "amplitude_summary.csv": "1a1ec5209eeb2a4650633279c26909826204575c7b6c17047e5b7680101dfc85",
+  "audit.json": "bcf04e46a4975f7e1c66c573a58be2456f8c8ad95c37864eda4d61d50ebd50c9",
+  "author_biae.py": "365fd5b8c2aa428fdf8150826eb8ca4866f8bfce9201cc72519b5582c393df85",
+  "conclusions.json": "b00a465175a66159bac73c846af768b2a79279be4448bb772783c4d73400da2e",
+  "formula_mapping.json": "01c594d24863221731df2a6495119f9e96aa82e8b6fa9ba3d5e38c9d47a3c5f7",
+  "initial_protocol_aborted.json": "1174d8458386ad750ea561c3ebffacbb91ba1e2ae8df78330b2ce333e5b477dd",
+  "paper_v2.html": "32eb9ceec91af2c68f6e4eb59c362d667d76d89f7fdb8a3e993a87f6ab17423e",
+  "protocol.json": "5a5a431c06130ceecb5188f2a65a1a57ce0e0b04ca7faa2c9c09a2c4ab336329",
+  "risk_results.csv": "3ad9efe2ceb6eb9a1dd8dffb1829e6b7454fca62184b083c2d85ca8ce8ee9791",
+  "risk_rounds.parquet": "a435b22fe657a2c335c9e57ed904986bca54ba22416bfcc1b814e029bd61fd2a",
+  "risk_summary.csv": "5e970d7f8b742fa44ccce7c58eb1c52250f23fc7e5891d502630483354bb5b33",
+  "status.json": "e375ebe37631589df96a7b6d131b56b97d2cdcbe8d4274bb65cb6ed097a90eb7"
+}

@@ -1,0 +1,10 @@
+{
+  "weights": [
+    0.6,
+    0.0,
+    0.0,
+    0.4
+  ],
+  "cvar": 0.030909524144100683,
+  "solver": "scipy_highs_sparse_lp"
+}

@@ -1,0 +1,9 @@
+{
+  "runs": 24,
+  "rounds": 495,
+  "unique_circuits": 54,
+  "validated_circuits": 7,
+  "max_probability_error": 2.0000667788622195e-13,
+  "elapsed_seconds": 74.9988869000008,
+  "failures": 0
+}

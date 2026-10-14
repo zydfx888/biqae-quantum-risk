@@ -1,0 +1,13 @@
+{
+  "assets": 4,
+  "states": 16,
+  "alpha": 0.975,
+  "budget": 16384,
+  "methods": ["mc", "iqae", "grid_biqae", "normal_biqae", "beta_biqae"],
+  "seeds": [13],
+  "optimization_steps": 100,
+  "learning_rate": 0.1,
+  "w_max": 0.6,
+  "backend": "analytic_shots"
+}
+

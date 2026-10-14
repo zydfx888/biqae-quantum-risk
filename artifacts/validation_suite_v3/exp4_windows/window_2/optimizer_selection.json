@@ -1,0 +1,17 @@
+{
+  "validation_only": [
+    {
+      "learning_rate": 0.03,
+      "validation_es": 0.024303132909304623
+    },
+    {
+      "learning_rate": 0.1,
+      "validation_es": 0.024547894866578598
+    },
+    {
+      "learning_rate": 0.3,
+      "validation_es": 0.024926626361059488
+    }
+  ],
+  "learning_rate": 0.03
+}

@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "exact_rows": 300,
+  "initial_current_probe_rows": 20,
+  "followup_current_probe_rows": 20,
+  "trained_policies": 22,
+  "policy_hashes_verified": 22,
+  "trajectory_audit_rows": 308,
+  "max_constraint_violation": 6.661338147750939e-16,
+  "all_policy_budgets_within_cap": true,
+  "independent_readonly_audit": "No blocking numerical bug found; 500 subgradient support checks, minimum residual -7.0e-18; chronology and no test-based selection reviewed.",
+  "logical_sample_records_not_physical_memory_reads": true
+}

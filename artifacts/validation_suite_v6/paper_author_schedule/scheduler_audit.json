@@ -1,0 +1,8 @@
+{
+  "cases": 10000,
+  "mismatches": 0,
+  "illegal_intervals": 0,
+  "original_source_sha256": "365fd5b8c2aa428fdf8150826eb8ca4866f8bfce9201cc72519b5582c393df85",
+  "execution": "unmodified author AST method",
+  "cap_policy": "If original FindNextK proposes k>31, retain current k; budget truncates shots externally."
+}

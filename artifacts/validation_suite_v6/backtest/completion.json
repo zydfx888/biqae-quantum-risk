@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "years": 15,
+  "fitted_gmm_candidates": 45,
+  "trained_policies_including_validation": 75,
+  "business_policies": 75,
+  "paths": 15,
+  "daily_rows": 56580,
+  "runtime_s": 139.8337836999999,
+  "date_leakage_violations": 0,
+  "independent_seed_replication": false
+}

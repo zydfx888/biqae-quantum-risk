@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "risk_trials": 24800,
+  "amplitude_trials": 4320,
+  "failed_risk_trials": 0,
+  "cases": 31,
+  "runtime_s": 168.26348399999915
+}

@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "manifest_entries_verified": 30,
+  "risk_variants": 2400,
+  "known_amplitudes": 2800,
+  "grover_budget_trials": 4000,
+  "stopping_trials": 4800
+}

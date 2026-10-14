@@ -1,0 +1,114 @@
+{
+  "created_utc": "2026-09-16T01:35:03.557201+00:00",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "assets": [
+    "Cnsmr",
+    "Manuf",
+    "HiTec",
+    "Hlth"
+  ],
+  "training": "2000 through year-3 inclusive",
+  "validation": "previous two complete calendar years",
+  "test": "current calendar year only after model and weights saved",
+  "gmm_candidates": [
+    13,
+    29,
+    43
+  ],
+  "gmm_selection": "highest validation log likelihood",
+  "learning_rate_candidates": [
+    0.03,
+    0.1,
+    0.3
+  ],
+  "learning_rate_selection": "lowest validation ES of exact raw-gradient candidates, common to every trained policy",
+  "scenario_count": 20003,
+  "scenario_seed": 20260915,
+  "training_seed": 600,
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.005,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 128,
+    "max_grover_power": 15,
+    "max_rounds": 16,
+    "budget": 8192,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 2049,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 120,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "policies": [
+    "dynamic_mc",
+    "dynamic_grid_biqae",
+    "raw_exact",
+    "raw_lp",
+    "equal"
+  ],
+  "rebalance": "first observed trading date annually, using only preceding years; buy and hold with drifting weights between annual rebalances",
+  "costs_bp_per_dollar_purchased_or_sold": [
+    0,
+    10,
+    25
+  ],
+  "turnover": "half L1 target minus drifted pretrade weights; initial cash entry has 0.5 turnover and full invested notional",
+  "cost_accounting": "self-financing wealth factor f=1-c*sum(abs(f*target-pretrade)); fees apply buys and sells, no daily rebalancing",
+  "caveat": "retrospective public industry returns, not investable constituent execution; one fixed policy seed per year",
+  "raw_sha256": "1a81f6efdce2b2c17283ecbe83b903e385464fe889e79eef6bfe406c575fdbe1",
+  "source_sha256": "9f6e8f055f097edd649aeb0361c59c2044f98e8dfbe0a534f62f2224f3e63ee1"
+}

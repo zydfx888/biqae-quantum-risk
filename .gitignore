@@ -1,0 +1,13 @@
+.venv-biqae/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+data/**/*.npz
+data/raw/*
+artifacts/runs/*
+cache/*
+tmp/*
+!**/.gitkeep
+

@@ -1,0 +1,16 @@
+{
+  "completed": "Implemented paper Algorithms 1-6 independently without posterior grids and executed 6400 trials.",
+  "equivalence_status": "Core equation reproduction completed; no proof of equivalence to an exact Bayesian posterior or the full author implementation.",
+  "normal_limit": "Initial noninformative Normal prior and literal zero-variance limit: endpoint observations can collapse uncertainty; 433 amplitude trials encountered zero posterior variance. This is measured failure, not convergence reliability.",
+  "beta_limit": "Algorithm6 uses 1000 posterior draws and Beta MLE; finite-R approximation and transformed-family misspecification remain.",
+  "scheduler_limit": "Standard largest legal odd-K schedule is permitted by paper Section3.1, but differs from the author code coarser decrement. Random interval audit found 121/1000 differing scheduler outputs (subset with author output within cap); not a byte-equivalent reproduction. Author deterministic transform agrees within 2.77e-14.",
+  "comparison_limit": "IQAE-CP shares cumulative-stage observations and scheduler with paper Normal/Beta. Grid retains original update/scheduler and per-round alpha policy, so observed savings do not isolate Bayesian updating or establish equal-error quantum advantage.",
+  "noise_limit": "All measurements are actual finite-shot ideal Bernoulli simulations; no noisy hardware result.",
+  "risk_conclusion": "Paper Beta achieves 100/100 five-bp successes at both risk levels on the fixed trained-model discrete task; Normal falls to 87/100 and 50/100 and has substantial undercoverage.",
+  "amplitude_conclusion": "At 10 shots per batch, Beta success 99.286%, coverage 98.286%, average A calls1283.87; matched-schedule IQAE-CP success99.857%, coverage99.429%,1609.53 calls. Normal success44%,coverage41.286%. At256shots Beta and IQAE-CP both100% success, Beta8588.43calls vs IQAE8332.43; no uniform Beta advantage.",
+  "references": [
+    "https://arxiv.org/html/2507.23074v2",
+    "https://github.com/Kirin0570/BIQAE/blob/main/src/biae.py"
+  ],
+  "audit": "76310 measurement rounds, zero query accounting mismatches, zero reconstructed branch violations; analytic Normal checked by quadrature, delta variance by finite differences, Beta MLE score max5.75e-10."
+}

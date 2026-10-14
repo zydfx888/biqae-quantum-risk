@@ -1,0 +1,10 @@
+{
+  "trials": 6000,
+  "groups": 60,
+  "seeds_per_group": 100,
+  "failed_trials": 0,
+  "all_queries_within_budget": true,
+  "regeneration_exact_match": true,
+  "original_gmm_reference_reused": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp2_precision",
+  "source_module_sha256": "6a98026dfc145b6bd3c93205fcac5ff80aad07e2f7535634081ef4c3c72c0235"
+}

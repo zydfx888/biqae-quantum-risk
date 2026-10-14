@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "amplitude_trials": 5600,
+  "risk_trials": 800,
+  "normal_zero_variance_trials": 433,
+  "runtime_s": 55.42361349999919,
+  "failures": 0,
+  "grid_dependency": false,
+  "replication": "paper Algorithms1-6 independently reproduced; external capped evaluation; no exact Bayesian equivalence claim"
+}

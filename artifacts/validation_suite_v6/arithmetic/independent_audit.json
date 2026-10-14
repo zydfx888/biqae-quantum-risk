@@ -1,0 +1,10 @@
+{
+  "runs_verified": 24,
+  "rounds_verified": 495,
+  "resource_sums_reconciled": true,
+  "budget_bounds": true,
+  "all_actual_base_circuits_validated": 20,
+  "all_base_max_probability_error": 1.2628786905111156e-12,
+  "additional_validation_seconds": 24.875895000001037,
+  "arithmetic_and_comparator_exhaustive_tests": "2 passed, 320 controlled-add cases and 1088 comparator cases"
+}

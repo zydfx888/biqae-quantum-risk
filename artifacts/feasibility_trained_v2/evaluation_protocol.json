@@ -1,0 +1,9 @@
+{
+  "classical_risk_baselines": "one shared sampled distribution for VaR+ES, not repeated threshold sampling",
+  "MC_interval": "DKW simultaneous CDF bound",
+  "QMC_interval": "one-dimensional scrambled net discrepancy",
+  "IS_interval": "self-normalized IS simultaneous Hoeffding ratio bounds",
+  "IS_proposal": "0.5*p + 0.5*normalize(p*(0.05+normalized_frozen_loss**4))",
+  "reason": "Use strong standard classical implementations; prevent repeated-query overhead from weakening baselines",
+  "frozen_utc": "2026-09-15T02:59:25.847631+00:00"
+}

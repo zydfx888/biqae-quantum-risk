@@ -1,0 +1,19 @@
+{
+  "markdown_sha256": "bf34d4ecdd0a1809a9568fa4061d6eb00323af19552f380135a7cfc31c0e4e2a",
+  "html_sha256": "b9e7c5280f09155b0535e79e10dae38c2784806ee2c226c322c41e5f0d02a371",
+  "verified_images": 2,
+  "images": [
+    {
+      "label": "目标差距与权重距离收敛结果",
+      "source": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\optimization_acceptance\\convergence.png",
+      "relative": "report_assets/figure_01.png",
+      "sha256": "d6370536c14236425aaa51e66bbd1713960e97a39f314be7fbb9cebbfa1bb3df"
+    },
+    {
+      "label": "年度滚动净值结果",
+      "source": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v6\\annual_nav.png",
+      "relative": "report_assets/figure_02.png",
+      "sha256": "64adc9399c0e62e2bf2e182cd248fd2254c9a2360f2516f0a303caca89973309"
+    }
+  ]
+}

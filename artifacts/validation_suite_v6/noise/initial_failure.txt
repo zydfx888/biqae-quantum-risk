@@ -1,0 +1,1 @@
+Initial run failed before first result row: KeyError shots. Corrected resource field to shots_total; protocol re-frozen and all trials restarted.

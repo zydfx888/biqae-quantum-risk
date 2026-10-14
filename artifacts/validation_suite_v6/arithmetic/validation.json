@@ -1,0 +1,68 @@
+[
+  {
+    "states": 8,
+    "stage": "var",
+    "threshold": 6,
+    "k": 0,
+    "probability_error": 1.4643841694805815e-13,
+    "workspace_zero_probability": 1.0,
+    "inverse_probability_error": 3.4150460237469815e-13,
+    "seconds": 0.5599402000007103
+  },
+  {
+    "states": 8,
+    "stage": "var",
+    "threshold": 6,
+    "k": 1,
+    "probability_error": 2.0000667788622195e-13,
+    "seconds": 0.8969059999981255
+  },
+  {
+    "states": 8,
+    "stage": "var",
+    "threshold": 5,
+    "k": 0,
+    "probability_error": 1.534883331544279e-14,
+    "workspace_zero_probability": 1.0,
+    "inverse_probability_error": 3.4505731605349865e-13,
+    "seconds": 0.5639026999997441
+  },
+  {
+    "states": 8,
+    "stage": "var",
+    "threshold": 8,
+    "k": 0,
+    "probability_error": 1.6131540547803525e-13,
+    "workspace_zero_probability": 1.0,
+    "inverse_probability_error": 3.4505731605349865e-13,
+    "seconds": 1.093547500000568
+  },
+  {
+    "states": 8,
+    "stage": "es",
+    "threshold": 8,
+    "k": 0,
+    "probability_error": 4.107825191113079e-15,
+    "workspace_zero_probability": 1.0,
+    "inverse_probability_error": 2.3225865675158275e-13,
+    "seconds": 1.1696018000002368
+  },
+  {
+    "states": 8,
+    "stage": "es",
+    "threshold": 8,
+    "k": 1,
+    "probability_error": 5.750955267558311e-14,
+    "seconds": 1.7937670999999682
+  },
+  {
+    "states": 8,
+    "stage": "es",
+    "threshold": 12,
+    "k": 0,
+    "probability_error": 5.657546506131723e-30,
+    "workspace_zero_probability": 1.0,
+    "inverse_probability_error": 2.327027459614328e-13,
+    "seconds": 1.3248560000029102
+  }
+]

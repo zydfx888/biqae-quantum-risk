@@ -1,0 +1,84 @@
+{
+  "created_utc": "2026-09-16T01:33:28.141163+00:00",
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.005,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 128,
+    "max_grover_power": 15,
+    "max_rounds": 16,
+    "budget": 8192,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 2049,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 120,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "windows": "same three frozen chronological v3 windows",
+  "seeds": [
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608,
+    609
+  ],
+  "representations": [
+    "original64",
+    "dynamic64"
+  ],
+  "methods": [
+    "mc",
+    "grid_biqae"
+  ],
+  "reference": [
+    "raw exact gradient",
+    "raw LP"
+  ],
+  "learning_rate": "reuse common rate previously chosen by validation only in each window",
+  "raw_samples": 20003,
+  "gate": "report exact probes and final metrics, no test-based exclusion",
+  "source_sha256": "8721ac23a18888e664e3a97bf79e91533f7561de322a2fbd33b47b1fe2e0c3f9"
+}

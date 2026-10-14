@@ -1,0 +1,65 @@
+{
+  "total_evaluation_rows": 312,
+  "checks": {
+    "exp1_training": {
+      "rows": 153,
+      "hashes_verified": 322,
+      "method_counts": {
+        "equal_weight": 1,
+        "exact": 1,
+        "grid_biqae": 30,
+        "iqae": 30,
+        "is": 30,
+        "lp": 1,
+        "mc": 30,
+        "sobol": 30
+      },
+      "constraint_max": 4.440892098500626e-16
+    },
+    "exp4_windows/window_1": {
+      "rows": 53,
+      "hashes_verified": 128,
+      "method_counts": {
+        "equal_weight": 1,
+        "exact": 1,
+        "grid_biqae": 10,
+        "iqae": 10,
+        "is": 10,
+        "lp": 1,
+        "mc": 10,
+        "sobol": 10
+      },
+      "constraint_max": 4.440892098500626e-16
+    },
+    "exp4_windows/window_2": {
+      "rows": 53,
+      "hashes_verified": 128,
+      "method_counts": {
+        "equal_weight": 1,
+        "exact": 1,
+        "grid_biqae": 10,
+        "iqae": 10,
+        "is": 10,
+        "lp": 1,
+        "mc": 10,
+        "sobol": 10
+      },
+      "constraint_max": 4.440892098500626e-16
+    },
+    "exp4_windows/window_3": {
+      "rows": 53,
+      "hashes_verified": 128,
+      "method_counts": {
+        "equal_weight": 1,
+        "exact": 1,
+        "grid_biqae": 10,
+        "iqae": 10,
+        "is": 10,
+        "lp": 1,
+        "mc": 10,
+        "sobol": 10
+      },
+      "constraint_max": 4.440892098500626e-16
+    }
+  }
+}

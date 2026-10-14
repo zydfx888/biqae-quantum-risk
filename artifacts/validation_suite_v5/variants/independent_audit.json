@@ -1,0 +1,13 @@
+{
+  "amplitude": {
+    "rows": 2800,
+    "max_A_ledger_discrepancy": 0,
+    "max_shots_discrepancy": 0
+  },
+  "risk": {
+    "rows": 2400,
+    "max_A_ledger_discrepancy": 0,
+    "max_shots_discrepancy": 0
+  },
+  "grid_replay_max_error": 2.8199664825478976e-14
+}

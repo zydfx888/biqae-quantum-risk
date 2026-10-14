@@ -1,0 +1,11 @@
+{
+  "created_utc": "2026-09-15T09:38:57.930248+00:00",
+  "sources": "saved v3 exp1 policies and v4 binning propagation policies; no retraining",
+  "acceptance": {
+    "objective_gap_bp": 1,
+    "LP_weight_l2": 0.05,
+    "constraints": 1e-08
+  },
+  "meaning": "new engineering thresholds fixed before this audit, not previously preregistered training criteria; LP distance alone does not prove uniqueness",
+  "reference": "same-model LP; frozen16 for original training and full20003 empirical model for compression comparisons; never optimize heldout test set"
+}

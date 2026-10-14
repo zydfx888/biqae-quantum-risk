@@ -1,0 +1,1 @@
+Initial attempt stopped after known/official amplitude runs: 8 states alpha .975 has all-zero excess, experimental payload normalization divided by zero. All shared algorithm files unchanged. Retest includes both alpha .95 and .975 and defined all-zero payload; no seeds removed.

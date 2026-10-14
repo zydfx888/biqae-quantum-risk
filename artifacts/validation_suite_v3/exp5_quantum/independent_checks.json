@@ -1,0 +1,11 @@
+{
+  "local_rounds": 4283,
+  "odd_branch_rounds": 750,
+  "max_branch": 40,
+  "truth_branch_mismatches": 0,
+  "raw_counts_complete": true,
+  "representative_max_depth": 2221,
+  "representative_max_cx": 1497,
+  "per_amplitude_30_of_30_CP95_lower": 0.8842966917779722,
+  "official_21_of_21_CP95_lower": 0.8389023847809204
+}

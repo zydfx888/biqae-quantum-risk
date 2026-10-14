@@ -1,0 +1,30 @@
+[
+  {
+    "baseline": "mc",
+    "n": 10,
+    "biqae_minus_baseline_mean_bp": -0.159708311505826,
+    "ci_low_bp": -0.7705875600275282,
+    "ci_high_bp": 0.7064640916290604
+  },
+  {
+    "baseline": "sobol",
+    "n": 10,
+    "biqae_minus_baseline_mean_bp": -0.16509366502488057,
+    "ci_low_bp": -0.7762258419513426,
+    "ci_high_bp": 0.6970057039433003
+  },
+  {
+    "baseline": "is",
+    "n": 10,
+    "biqae_minus_baseline_mean_bp": -0.16259127034915638,
+    "ci_low_bp": -0.7738919698131308,
+    "ci_high_bp": 0.6999127554188007
+  },
+  {
+    "baseline": "iqae",
+    "n": 10,
+    "biqae_minus_baseline_mean_bp": 0.07220217663634135,
+    "ci_low_bp": -0.4843778847017657,
+    "ci_high_bp": 0.6642593997369369
+  }
+]

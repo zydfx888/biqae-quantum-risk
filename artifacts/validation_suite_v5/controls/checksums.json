@@ -1,0 +1,8 @@
+{
+  "conclusions.json": "8a011ce871f41616d69369e97b552a42db72c153c364738494db42fcff9526a3",
+  "protocol.json": "c76dd7de6a6ac765d948a1a540ba5dc7c63b9d0b34607e0d3f0bd5ecdef49b87",
+  "results.csv": "bce48239918ca1223e55700074681adc37fdd6a5bd9b19de0dedb3c806be3d7c",
+  "rounds.parquet": "c09f4b588865d6f25837799d3436c7547697bdf37dd834e024565c38ec108c95",
+  "status.json": "2a5f7009a43bcf169f28009ee9a28efb6f43abf863d05b57c16ade5b1c953eea",
+  "summary.csv": "28f199dc1c8df0979282575758c98b45444a3ee4afb2d1c907f3b7573aed2974"
+}

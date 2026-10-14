@@ -1,0 +1,225 @@
+{
+  "created_utc": "2026-09-15T08:33:37.252584+00:00",
+  "workspace": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk",
+  "report": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\综合实验报告.md",
+  "reason": "Superseded report documents consolidated into one report; preserve experimental evidence.",
+  "files": [
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\legacy_reports\\实验结果报告.html",
+      "relative": "artifacts\\feasibility_trained_v1\\legacy_reports\\实验结果报告.html",
+      "sha256": "b05a0fd0ef481ffabebdddad8b2fb755c83645fb268d2c7220259351f51f9ae3",
+      "bytes": 11716,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\legacy_reports\\实验结果报告.md",
+      "relative": "artifacts\\feasibility_trained_v1\\legacy_reports\\实验结果报告.md",
+      "sha256": "1dbdd3b4f8c5d621d10475216eb7ea157747999dd8f0c0ac075d05181cda3fd3",
+      "bytes": 9067,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\legacy_reports\\结果简报.md",
+      "relative": "artifacts\\feasibility_trained_v1\\legacy_reports\\结果简报.md",
+      "sha256": "6ef63ad0e7d5f0749457a2fe934daf2229e3e3772fad0a3c57640b6033583cf2",
+      "bytes": 2646,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\实验结果报告.html",
+      "relative": "artifacts\\feasibility_trained_v1\\实验结果报告.html",
+      "sha256": "a12c203c8ccf6c7376306f875ecb6567ebd69196d155aed00c59a71dcdacb03e",
+      "bytes": 12030,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\实验结果报告.md",
+      "relative": "artifacts\\feasibility_trained_v1\\实验结果报告.md",
+      "sha256": "a0b4ec9edcfbd1ead289a1acb424ee6fea1e0e6b4e1ad3c819c577c8e24e85c8",
+      "bytes": 9368,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v1\\结果简报.md",
+      "relative": "artifacts\\feasibility_trained_v1\\结果简报.md",
+      "sha256": "393bf017ccee7b22733852822dae80c945310a186f5514e52b46cda27654b9a3",
+      "bytes": 2947,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v2\\基线修正报告.md",
+      "relative": "artifacts\\feasibility_trained_v2\\基线修正报告.md",
+      "sha256": "0d7b9cd6e3cb36e67595736c54b36d933248b8f3fc323580f990a4f3bd03609c",
+      "bytes": 2546,
+      "represented_by": "section-11"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v2\\实验结果报告.html",
+      "relative": "artifacts\\feasibility_trained_v2\\实验结果报告.html",
+      "sha256": "e039c79f96eef293fcec710ae4723c322752680c5f30ee74cf3c01cd0aa17151",
+      "bytes": 12139,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v2\\实验结果报告.md",
+      "relative": "artifacts\\feasibility_trained_v2\\实验结果报告.md",
+      "sha256": "41dd59b0e6818eab6f7288e32192346674be5da60802d4fdb8cb3d2db44d6c37",
+      "bytes": 9489,
+      "represented_by": "section-12"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\feasibility_trained_v2\\结果简报.md",
+      "relative": "artifacts\\feasibility_trained_v2\\结果简报.md",
+      "sha256": "aa3cfefea38d0f43c47eb78e3ed586a4d8a4b12e1d80b78f6b9598df93eec918",
+      "bytes": 3068,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020054_5e86b33b\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020054_5e86b33b\\report.md",
+      "sha256": "d0e48d2db6775e780ffc82178d81f9bedd81627421b3ace78844072bc468c2c9",
+      "bytes": 2460,
+      "represented_by": "section-14"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020054_cece11d5\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020054_cece11d5\\report.md",
+      "sha256": "2d16edbf9fb7f3742e5de565850e772a55f4eaa8fb71493e3ca463adf1a4c606",
+      "bytes": 1382,
+      "represented_by": "section-15"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020119_777231b5\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020119_777231b5\\report.md",
+      "sha256": "cbfbb6661bce921b7d129caf6732d8a132a8862d29a96fb2e59470497140ebcd",
+      "bytes": 1372,
+      "represented_by": "section-16"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020423_ccdfacd5\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020423_ccdfacd5\\report.md",
+      "sha256": "dc1777e821d01c74f93f1acfcc28ae9399d4a2fed181ed95c3955fb7e885e52c",
+      "bytes": 2547,
+      "represented_by": "section-17"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020447_b53e5ab5\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020447_b53e5ab5\\report.md",
+      "sha256": "5ddcc33a87595cd26c21e45e0d776ca17588cc5651a48b3248447ab47f9e2279",
+      "bytes": 1431,
+      "represented_by": "section-18"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020453_de74e262\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020453_de74e262\\report.md",
+      "sha256": "b096adbfe7a1469e9ac422ce5ed7577891b614d3f54e5b0e58ba595e17f039a1",
+      "bytes": 1421,
+      "represented_by": "section-19"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020652_bbbd2a86\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020652_bbbd2a86\\report.md",
+      "sha256": "de0de632db37013f242bb46552c06258632ada7ddf633533f6748086cb6d7321",
+      "bytes": 2559,
+      "represented_by": "section-20"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\runs\\biqae_20260915T020853_792d1100\\report.md",
+      "relative": "artifacts\\runs\\biqae_20260915T020853_792d1100\\report.md",
+      "sha256": "6bddd5f33deb254890c629e6427b094d07918664741e91b4526e90c0c13ff9a9",
+      "bytes": 1808,
+      "represented_by": "section-21"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp1_training\\报告.md",
+      "relative": "artifacts\\validation_suite_v3\\exp1_training\\报告.md",
+      "sha256": "b39467cdb00ec46cbe80407c1b1e4095f7c2c7bdf1fa99ea48dc296a154a3b8a",
+      "bytes": 2381,
+      "represented_by": "section-1"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp2_precision\\报告.md",
+      "relative": "artifacts\\validation_suite_v3\\exp2_precision\\报告.md",
+      "sha256": "99d2ea573efc8d2b6bd63245c1117f49817dbc5892ab9fac4e840f5ee2573e72",
+      "bytes": 4665,
+      "represented_by": "section-3"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp3_ablation\\报告.md",
+      "relative": "artifacts\\validation_suite_v3\\exp3_ablation\\报告.md",
+      "sha256": "24c3be9068d8a8782ca3d6491b5c3af2af7ffe7113c1859a618a4f922568d07f",
+      "bytes": 3064,
+      "represented_by": "section-5"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp4_windows\\报告.md",
+      "relative": "artifacts\\validation_suite_v3\\exp4_windows\\报告.md",
+      "sha256": "24654fa350d85bc1090471a35c0ae9c8452bf488556cec3ec948c0db2635dba0",
+      "bytes": 2632,
+      "represented_by": "section-2"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\exp5_quantum\\实验5报告.md",
+      "relative": "artifacts\\validation_suite_v3\\exp5_quantum\\实验5报告.md",
+      "sha256": "4e12b850bd71b1841f68c4d65b30f401346d53d54805c82913f07588cc30e29d",
+      "bytes": 5257,
+      "represented_by": "section-7"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v3\\总报告.md",
+      "relative": "artifacts\\validation_suite_v3\\总报告.md",
+      "sha256": "aaba5a724e58ebf3d0e584aaeb7622823d211264d0c84b4e81ff28ff24ad5c3a",
+      "bytes": 9071,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\exp1_binning\\报告.md",
+      "relative": "artifacts\\validation_suite_v4\\exp1_binning\\报告.md",
+      "sha256": "e0b5da76b3dc7362bc14d58091178479531cedbcbc263fd81a08b955aa3d5caf",
+      "bytes": 9818,
+      "represented_by": "section-6"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\exp2_distributions\\报告.md",
+      "relative": "artifacts\\validation_suite_v4\\exp2_distributions\\报告.md",
+      "sha256": "b8b7380512b1f47220ab7baeeb1b4fc6febe143d695473dddbbd418ce7937861",
+      "bytes": 4735,
+      "represented_by": "section-4"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\exp3_variants\\报告.md",
+      "relative": "artifacts\\validation_suite_v4\\exp3_variants\\报告.md",
+      "sha256": "53cb93031a766526a87c4b43c20e6302c76f9b14f3111260a24bcd47bb492ebb",
+      "bytes": 3597,
+      "represented_by": "section-8"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\exp4_controls\\报告.md",
+      "relative": "artifacts\\validation_suite_v4\\exp4_controls\\报告.md",
+      "sha256": "ac376085fade36dc4635322919cd07efa9d33cbbd567fc9fb2eaf9c0a28d786c",
+      "bytes": 5178,
+      "represented_by": "section-9"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\exp5_resources\\实验5报告.md",
+      "relative": "artifacts\\validation_suite_v4\\exp5_resources\\实验5报告.md",
+      "sha256": "6c31355e22df83d1ac3f0b48e26daf765cebaec96a2ac448dff62b2ad3bda0d6",
+      "bytes": 3295,
+      "represented_by": "section-10"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\artifacts\\validation_suite_v4\\总报告.md",
+      "relative": "artifacts\\validation_suite_v4\\总报告.md",
+      "sha256": "7e09da1836944d7898246d5433c50961719413d315c709e9420e80c834abee30",
+      "bytes": 6379,
+      "represented_by": "overview"
+    },
+    {
+      "path": "D:\\楠婷\\IPCC\\项目\\量子应用平台-元演乾坤\\方案三\\q3_biqae_risk\\VALIDATION.md",
+      "relative": "VALIDATION.md",
+      "sha256": "fd62a350afe77053251482f5042efebd1b2b3ff032ab5de1224954ca4996f455",
+      "bytes": 3004,
+      "represented_by": "section-13"
+    }
+  ]
+}

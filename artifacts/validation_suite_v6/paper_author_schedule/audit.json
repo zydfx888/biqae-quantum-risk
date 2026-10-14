@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "rounds": 77626,
+  "ledger_mismatches": 0,
+  "scheduler_cases": 10000,
+  "scheduler_mismatches": 0,
+  "full_author_equivalence": false,
+  "limitation": "Author exact scheduling and paper update modules reproduced; numerical Beta MLE solver differs, Normal is paper-only, external resource caps remain."
+}

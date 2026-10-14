@@ -1,0 +1,27 @@
+{
+  "created_utc": "2026-09-15T09:55:15.567288+00:00",
+  "methods": [
+    "iqae",
+    "grid_biqae",
+    "normal_biqae",
+    "beta_biqae"
+  ],
+  "seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "amplitude": 0.05,
+  "alpha": 0.975,
+  "budget": 65536,
+  "source_sha256": "ee5a099b22fed778550965868d12748ed3ccfa8828081d7e14cd12a14545f9f7",
+  "purpose": "diagnostic repeated wall timing after main comparison; no accuracy selection",
+  "non_sampling_runtime": "wall estimator minus measurement.sample internal ledger time; includes setup, schedules, posterior processing; not pure posterior CPU time"
+}

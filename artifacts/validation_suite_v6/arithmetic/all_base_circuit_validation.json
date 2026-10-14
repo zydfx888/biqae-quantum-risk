@@ -1,0 +1,166 @@
+{
+  "circuits": [
+    {
+      "file": "A_16_es_10.qpy",
+      "states": 16,
+      "stage": "es",
+      "threshold": 10,
+      "probability_error": 6.376843497690743e-15,
+      "workspace_zero_probability": 1.0000000000005327
+    },
+    {
+      "file": "A_16_es_12.qpy",
+      "states": 16,
+      "stage": "es",
+      "threshold": 12,
+      "probability_error": 5.817828857557217e-16,
+      "workspace_zero_probability": 1.0000000000005334
+    },
+    {
+      "file": "A_16_var_0.qpy",
+      "states": 16,
+      "stage": "var",
+      "threshold": 0,
+      "probability_error": 4.9307780081164765e-14,
+      "workspace_zero_probability": 1.000000000000481
+    },
+    {
+      "file": "A_16_var_10.qpy",
+      "states": 16,
+      "stage": "var",
+      "threshold": 10,
+      "probability_error": 4.474198789239381e-13,
+      "workspace_zero_probability": 1.0000000000004807
+    },
+    {
+      "file": "A_16_var_12.qpy",
+      "states": 16,
+      "stage": "var",
+      "threshold": 12,
+      "probability_error": 4.723998969780041e-13,
+      "workspace_zero_probability": 1.0000000000004792
+    },
+    {
+      "file": "A_16_var_6.qpy",
+      "states": 16,
+      "stage": "var",
+      "threshold": 6,
+      "probability_error": 4.310996004619483e-13,
+      "workspace_zero_probability": 1.000000000000478
+    },
+    {
+      "file": "A_16_var_8.qpy",
+      "states": 16,
+      "stage": "var",
+      "threshold": 8,
+      "probability_error": 4.412026299860372e-13,
+      "workspace_zero_probability": 1.0000000000004816
+    },
+    {
+      "file": "A_32_es_10.qpy",
+      "states": 32,
+      "stage": "es",
+      "threshold": 10,
+      "probability_error": 1.674528571360412e-14,
+      "workspace_zero_probability": 1.0000000000013924
+    },
+    {
+      "file": "A_32_es_12.qpy",
+      "states": 32,
+      "stage": "es",
+      "threshold": 12,
+      "probability_error": 2.0413358503557077e-15,
+      "workspace_zero_probability": 1.0000000000013947
+    },
+    {
+      "file": "A_32_var_10.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 10,
+      "probability_error": 1.1783907183371412e-12,
+      "workspace_zero_probability": 1.0000000000012692
+    },
+    {
+      "file": "A_32_var_12.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 12,
+      "probability_error": 1.2525536163821016e-12,
+      "workspace_zero_probability": 1.0000000000012697
+    },
+    {
+      "file": "A_32_var_13.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 13,
+      "probability_error": 1.2628786905111156e-12,
+      "workspace_zero_probability": 1.0000000000012714
+    },
+    {
+      "file": "A_32_var_5.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 5,
+      "probability_error": 1.3722356584366935e-13,
+      "workspace_zero_probability": 1.0000000000012734
+    },
+    {
+      "file": "A_32_var_6.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 6,
+      "probability_error": 1.1416423362220485e-12,
+      "workspace_zero_probability": 1.0000000000012688
+    },
+    {
+      "file": "A_32_var_8.qpy",
+      "states": 32,
+      "stage": "var",
+      "threshold": 8,
+      "probability_error": 1.162625551387464e-12,
+      "workspace_zero_probability": 1.0000000000012714
+    },
+    {
+      "file": "A_8_es_12.qpy",
+      "states": 8,
+      "stage": "es",
+      "threshold": 12,
+      "probability_error": 4.367099094517983e-30,
+      "workspace_zero_probability": 1.0000000000001203
+    },
+    {
+      "file": "A_8_es_8.qpy",
+      "states": 8,
+      "stage": "es",
+      "threshold": 8,
+      "probability_error": 4.2674197509029455e-15,
+      "workspace_zero_probability": 1.0000000000001192
+    },
+    {
+      "file": "A_8_var_5.qpy",
+      "states": 8,
+      "stage": "var",
+      "threshold": 5,
+      "probability_error": 1.609823385706477e-14,
+      "workspace_zero_probability": 1.0000000000001774
+    },
+    {
+      "file": "A_8_var_6.qpy",
+      "states": 8,
+      "stage": "var",
+      "threshold": 6,
+      "probability_error": 1.4954704141700859e-13,
+      "workspace_zero_probability": 1.000000000000174
+    },
+    {
+      "file": "A_8_var_8.qpy",
+      "states": 8,
+      "stage": "var",
+      "threshold": 8,
+      "probability_error": 1.6486811915683575e-13,
+      "workspace_zero_probability": 1.0000000000001765
+    }
+  ],
+  "elapsed_seconds": 24.875895000001037,
+  "max_probability_error": 1.2628786905111156e-12
+}

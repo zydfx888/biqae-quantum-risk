@@ -1,0 +1,15 @@
+{
+  "risk_observed_success_gate": {
+    "0.95": true,
+    "0.975": true
+  },
+  "portfolio_point_gate": true,
+  "portfolio_block_bootstrap_relative_gap_ci95": [
+    -0.015082244994354663,
+    0.026868704743430956
+  ],
+  "portfolio_ci_upper_within_5pct": true,
+  "oracle_circuit_gate": true,
+  "limited_feasibility_supported": true,
+  "formal_quantum_advantage_established": false
+}

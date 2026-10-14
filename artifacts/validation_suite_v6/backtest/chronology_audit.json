@@ -1,0 +1,677 @@
+[
+  {
+    "year": 2011,
+    "train_rows": 2263,
+    "train_first": "2000-01-03",
+    "train_last": "2008-12-31",
+    "validation_rows": 504,
+    "validation_first": "2009-01-02",
+    "validation_last": "2010-12-31",
+    "test_first": "2011-01-03",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 13.923161427580421,
+        "iterations": 32
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 13.92300349548941,
+        "iterations": 22
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 13.923157358789306,
+        "iterations": 31
+      }
+    ],
+    "selected_gmm_seed": 13,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.031320521666567666
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.02982728159675279
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.029478162376559446
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "9020e1f8fbb6200ee37ef8101ed93a08b477074145e9393414074c24d7016173"
+  },
+  {
+    "year": 2012,
+    "train_rows": 2515,
+    "train_first": "2000-01-03",
+    "train_last": "2009-12-31",
+    "validation_rows": 504,
+    "validation_first": "2010-01-04",
+    "validation_last": "2011-12-30",
+    "test_first": "2012-01-03",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.501771746835665,
+        "iterations": 41
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.501771423091567,
+        "iterations": 40
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.50189579570046,
+        "iterations": 21
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.035133072248307085
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.03387627878424943
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.033466590049787234
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "27c003906c29adbe291b4d6b0257c119b1b00c5268d7af97c621ad06029f499a"
+  },
+  {
+    "year": 2013,
+    "train_rows": 2767,
+    "train_first": "2000-01-03",
+    "train_last": "2010-12-31",
+    "validation_rows": 502,
+    "validation_first": "2011-01-03",
+    "validation_last": "2012-12-31",
+    "test_first": "2013-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.76237585225774,
+        "iterations": 28
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.762394763242629,
+        "iterations": 29
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.762394504205961,
+        "iterations": 22
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.03211330891831904
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.030821086082059704
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.030588863249238422
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "6af3aa2aa6923d6d8c1ffee82c8c056d4a87a5d491b07105ac21f7e17caadc7d"
+  },
+  {
+    "year": 2014,
+    "train_rows": 3019,
+    "train_first": "2000-01-03",
+    "train_last": "2011-12-30",
+    "validation_rows": 502,
+    "validation_first": "2012-01-03",
+    "validation_last": "2013-12-31",
+    "test_first": "2014-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 15.274448822523123,
+        "iterations": 27
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 15.274561351850492,
+        "iterations": 26
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 15.274560696857055,
+        "iterations": 33
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.01789794602836899
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.017549263998066396
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.01749079485479973
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "385cd75c0d2e755f9eb422c4b649769f156db2fa46a4f08e0303add692326b16"
+  },
+  {
+    "year": 2015,
+    "train_rows": 3269,
+    "train_first": "2000-01-03",
+    "train_last": "2012-12-31",
+    "validation_rows": 504,
+    "validation_first": "2013-01-02",
+    "validation_last": "2014-12-31",
+    "test_first": "2015-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 15.069696161858278,
+        "iterations": 22
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 15.06964709109238,
+        "iterations": 22
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 15.069694612389577,
+        "iterations": 31
+      }
+    ],
+    "selected_gmm_seed": 13,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.01971674656038694
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.01943976458670433
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.019318105961590448
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "60b9cc1d312178eba2af49194716b514f78a5a21e28a97487026d2ecb630deba"
+  },
+  {
+    "year": 2016,
+    "train_rows": 3521,
+    "train_first": "2000-01-03",
+    "train_last": "2013-12-31",
+    "validation_rows": 504,
+    "validation_first": "2014-01-02",
+    "validation_last": "2015-12-31",
+    "test_first": "2016-01-04",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.569405030300285,
+        "iterations": 24
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.569450314546376,
+        "iterations": 20
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.569402146141249,
+        "iterations": 31
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.024201244236452504
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.023952373253802443
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.02373466659825987
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "7f373aa1a7b981f02f46868e0ca8ec5099b84ff3480f8d3cb28419bab03fe83a"
+  },
+  {
+    "year": 2017,
+    "train_rows": 3773,
+    "train_first": "2000-01-03",
+    "train_last": "2014-12-31",
+    "validation_rows": 504,
+    "validation_first": "2015-01-02",
+    "validation_last": "2016-12-30",
+    "test_first": "2017-01-03",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.383391421740903,
+        "iterations": 23
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.383391942435619,
+        "iterations": 23
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.383392301636496,
+        "iterations": 17
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.025221270883380904
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.0251628253042927
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.02503208212932257
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "bc82831acfd896b532512581caa67ea715b20515e2d0a08a1c4092df872c72bd"
+  },
+  {
+    "year": 2018,
+    "train_rows": 4025,
+    "train_first": "2000-01-03",
+    "train_last": "2015-12-31",
+    "validation_rows": 503,
+    "validation_first": "2016-01-04",
+    "validation_last": "2017-12-29",
+    "test_first": "2018-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.975367267289673,
+        "iterations": 25
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.975259359408687,
+        "iterations": 18
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.975371276336189,
+        "iterations": 24
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.01913476560338517
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.019003811087892127
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.019019087322657852
+      }
+    ],
+    "selected_rate": 0.1,
+    "test_used_for_selection": false,
+    "model_sha256": "bc7561418152e40d2a581a5f742cbf62821a86d2f3a1253ae1c9c20779e895cc"
+  },
+  {
+    "year": 2019,
+    "train_rows": 4277,
+    "train_first": "2000-01-03",
+    "train_last": "2016-12-30",
+    "validation_rows": 502,
+    "validation_first": "2017-01-03",
+    "validation_last": "2018-12-31",
+    "test_first": "2019-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.934091228906547,
+        "iterations": 27
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.93409146313431,
+        "iterations": 26
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.934088820432732,
+        "iterations": 27
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.02686253067936127
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.026905988913534844
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.02688197688401075
+      }
+    ],
+    "selected_rate": 0.03,
+    "test_used_for_selection": false,
+    "model_sha256": "00cdce2802cd85baa53accbc2a27c26b0ecae4dc82904e493a846451e72fbeee"
+  },
+  {
+    "year": 2020,
+    "train_rows": 4528,
+    "train_first": "2000-01-03",
+    "train_last": "2017-12-29",
+    "validation_rows": 503,
+    "validation_first": "2018-01-02",
+    "validation_last": "2019-12-31",
+    "test_first": "2020-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 14.688129367928173,
+        "iterations": 27
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 14.688129914859013,
+        "iterations": 19
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 14.688133704441501,
+        "iterations": 30
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.02780297514615438
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.027805915179775775
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.027848310973376332
+      }
+    ],
+    "selected_rate": 0.03,
+    "test_used_for_selection": false,
+    "model_sha256": "aa73b7209082c686b2a10c2a5e6f13c16ccab954b2be3eeb709c499d2c8d6ef4"
+  },
+  {
+    "year": 2021,
+    "train_rows": 4779,
+    "train_first": "2000-01-03",
+    "train_last": "2018-12-31",
+    "validation_rows": 505,
+    "validation_first": "2019-01-02",
+    "validation_last": "2020-12-31",
+    "test_first": "2021-01-04",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 13.523201537806424,
+        "iterations": 19
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 13.523200951807567,
+        "iterations": 24
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 13.523185107903414,
+        "iterations": 28
+      }
+    ],
+    "selected_gmm_seed": 13,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.05048786398807502
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.04849402715165119
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.047623432391392495
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "dafde590ed9f20108732412b3ceb605cd33b2065dda3bda913698c586cc38516"
+  },
+  {
+    "year": 2022,
+    "train_rows": 5031,
+    "train_first": "2000-01-03",
+    "train_last": "2019-12-31",
+    "validation_rows": 505,
+    "validation_first": "2020-01-02",
+    "validation_last": "2021-12-31",
+    "test_first": "2022-01-03",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 12.885403829603323,
+        "iterations": 33
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 12.885616550594317,
+        "iterations": 22
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 12.88542584775481,
+        "iterations": 26
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.05050872816228814
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.04854190411201867
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.04763067769425537
+      }
+    ],
+    "selected_rate": 0.3,
+    "test_used_for_selection": false,
+    "model_sha256": "7f1e8b028e373c7ed23bee8a416524feb443e23b0d8aaed4b32127a68d4bf80d"
+  },
+  {
+    "year": 2023,
+    "train_rows": 5284,
+    "train_first": "2000-01-03",
+    "train_last": "2020-12-31",
+    "validation_rows": 503,
+    "validation_first": "2021-01-04",
+    "validation_last": "2022-12-30",
+    "test_first": "2023-01-03",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 12.887685514695333,
+        "iterations": 31
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 12.887688157724401,
+        "iterations": 24
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 12.887652954689207,
+        "iterations": 27
+      }
+    ],
+    "selected_gmm_seed": 29,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.03137628451833395
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.032276229895934296
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.03262385422556762
+      }
+    ],
+    "selected_rate": 0.03,
+    "test_used_for_selection": false,
+    "model_sha256": "42c4ce34e3ab2bc79c5648c4ca8d72931d407ada87344ae27599236a10146338"
+  },
+  {
+    "year": 2024,
+    "train_rows": 5536,
+    "train_first": "2000-01-03",
+    "train_last": "2021-12-31",
+    "validation_rows": 501,
+    "validation_first": "2022-01-03",
+    "validation_last": "2023-12-29",
+    "test_first": "2024-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 12.841868412798991,
+        "iterations": 25
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 12.841861952027234,
+        "iterations": 25
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 12.841869157197262,
+        "iterations": 21
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.03115512912690043
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.03180214452620831
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.03253146380591016
+      }
+    ],
+    "selected_rate": 0.03,
+    "test_used_for_selection": false,
+    "model_sha256": "c300059021c739aad0851e5c16c6997d9ecb51c03f1981d1f10f7d307718b279"
+  },
+  {
+    "year": 2025,
+    "train_rows": 5787,
+    "train_first": "2000-01-03",
+    "train_last": "2022-12-30",
+    "validation_rows": 502,
+    "validation_first": "2023-01-03",
+    "validation_last": "2024-12-31",
+    "test_first": "2025-01-02",
+    "gmm_candidates": [
+      {
+        "seed": 13,
+        "validation_log_density": 13.703106155231884,
+        "iterations": 39
+      },
+      {
+        "seed": 29,
+        "validation_log_density": 13.70310605450947,
+        "iterations": 21
+      },
+      {
+        "seed": 43,
+        "validation_log_density": 13.703108536315824,
+        "iterations": 39
+      }
+    ],
+    "selected_gmm_seed": 43,
+    "learning_rates": [
+      {
+        "rate": 0.03,
+        "validation_es": 0.01849581242361297
+      },
+      {
+        "rate": 0.1,
+        "validation_es": 0.019194166869822407
+      },
+      {
+        "rate": 0.3,
+        "validation_es": 0.019620026283244572
+      }
+    ],
+    "selected_rate": 0.03,
+    "test_used_for_selection": false,
+    "model_sha256": "6f1ce0161a78da9c2af21193dcde0e1a5caf989abddf6bde1d533de36178f76e"
+  }
+]

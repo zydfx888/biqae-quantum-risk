@@ -1,0 +1,8 @@
+{
+  "utc": "2026-09-15T07:51:39.481930+00:00",
+  "change": "Cap reported two-outcome Bonferroni p values at 1; Holm p values and every decision already unchanged.",
+  "previous_summary_sha256": "dafe126bd965e54017ebcb2840a0e8bf20e2bf6ac047c0e3eb156ae0ed235498",
+  "new_summary_sha256": "52712f643d3962e51c6f9d41e3de182b3967773b8db75f96a0ff1d43837d617a",
+  "source_after_reporting_fix_sha256": "841068e047b47cb87e74fb630c540b895ab7e2d7002fd26a5c9337eec4db9a67",
+  "raw_trials_unchanged": true
+}

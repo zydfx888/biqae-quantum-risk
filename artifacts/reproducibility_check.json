@@ -1,0 +1,12 @@
+[
+  {
+    "run": "biqae_20260915T020423_ccdfacd5",
+    "table_hash_reproduced": true,
+    "truth_reproduced": true
+  },
+  {
+    "run": "biqae_20260915T020853_792d1100",
+    "table_hash_reproduced": true,
+    "truth_reproduced": true
+  }
+]

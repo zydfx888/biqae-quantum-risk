@@ -1,0 +1,8 @@
+{
+  "runs": 960,
+  "elapsed_seconds": 33.40024330000233,
+  "unique_circuits": 107,
+  "density_evolutions": 249,
+  "max_zero_noise_probability_error": 3.873568132917171e-13,
+  "failures": 0
+}

@@ -1,0 +1,17 @@
+{
+  "completed_utc": "2026-09-15T07:36:09.457584+00:00",
+  "elapsed_seconds": 13.088004699995508,
+  "results": 1539,
+  "failures": 0,
+  "sections": {
+    "known": 1470,
+    "circuit": 48,
+    "official": 21
+  },
+  "model_regeneration_exact": true,
+  "protocol_sha256": "1062c43d5a1346ab656ffcf00248c8eb67b8460113512d4b7f97ef84055aa8c9",
+  "source_hashes_unchanged": true,
+  "maximum_circuit_probability_error": 3.137157200683305e-12,
+  "maximum_inverse_error": 7.451468207109433e-13,
+  "maximum_paired_estimate_difference": 0.0
+}

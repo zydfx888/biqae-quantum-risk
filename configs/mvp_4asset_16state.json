@@ -1,0 +1,18 @@
+{
+  "dataset": "synthetic_student_t",
+  "assets": 4,
+  "states": 16,
+  "alpha": 0.975,
+  "epsilon": 0.01,
+  "failure_probability": 0.05,
+  "methods": ["mc", "sobol", "is", "mlae", "iqae", "grid_biqae", "normal_biqae", "beta_biqae"],
+  "shots_per_round": 100,
+  "max_grover_power": 15,
+  "max_rounds": 12,
+  "budget": 8192,
+  "seeds": [13, 29, 43, 71, 101],
+  "backend": "analytic_shots",
+  "grid_size": 8193,
+  "count_state_preparation": true
+}
+

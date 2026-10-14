@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "runtime_s": 52.87939479999477,
+  "risk_trials": 2400,
+  "amplitude_trials": 2800,
+  "failures": 0,
+  "duplicate_risk_keys": 0,
+  "duplicate_amplitude_keys": 0
+}

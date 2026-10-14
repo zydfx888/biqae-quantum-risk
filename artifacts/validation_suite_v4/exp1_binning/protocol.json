@@ -1,0 +1,112 @@
+{
+  "created_utc": "2026-09-15T08:04:35.950280+00:00",
+  "model_sha256": "aa73b7209082c686b2a10c2a5e6f13c16ccab954b2be3eeb709c499d2c8d6ef4",
+  "generated_samples_sha256": "10e4fd2ac83e43fcf94e12d5280648c696638013dd8832cc128f58e036c79c59",
+  "methods": [
+    "original_equal_tail90",
+    "uniform_mass_actual",
+    "uniform_width_actual",
+    "tail95_actual",
+    "tail90_offgrid_actual"
+  ],
+  "states": [
+    16,
+    32,
+    64
+  ],
+  "alphas": [
+    0.95,
+    0.975
+  ],
+  "frozen_weights": {
+    "lp_anchor": [
+      0.4,
+      0.0,
+      0.0,
+      0.6
+    ],
+    "equal": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "concentrated_0": [
+      0.6,
+      0.13333333333333333,
+      0.13333333333333333,
+      0.13333333333333333
+    ],
+    "rotated_0": [
+      0.4,
+      0.3,
+      0.2,
+      0.1
+    ],
+    "concentrated_1": [
+      0.13333333333333333,
+      0.6,
+      0.13333333333333333,
+      0.13333333333333333
+    ],
+    "rotated_1": [
+      0.1,
+      0.4,
+      0.3,
+      0.2
+    ],
+    "concentrated_2": [
+      0.13333333333333333,
+      0.13333333333333333,
+      0.6,
+      0.13333333333333333
+    ],
+    "rotated_2": [
+      0.2,
+      0.1,
+      0.4,
+      0.3
+    ],
+    "concentrated_3": [
+      0.13333333333333333,
+      0.13333333333333333,
+      0.13333333333333333,
+      0.6
+    ],
+    "rotated_3": [
+      0.3,
+      0.2,
+      0.1,
+      0.4
+    ]
+  },
+  "binning_anchor": "previously trained LP16 weights; all non-anchor probes frozen before computation",
+  "uniform_definitions": "both equal probability and equal loss width; empty width bins explicitly dropped and counted",
+  "tail95": "half probability bins in [0,.95], half in [.95,1]; alpha boundaries can structurally preserve anchor ES/gradient",
+  "offgrid_control": "90% body with states//2+1 bins avoids aligning both alpha levels",
+  "gate": {
+    "max_abs_var_bp": 10,
+    "max_abs_es_bp": 5,
+    "max_abs_tail_probability_error": 0.0025,
+    "max_relative_gradient_l2": 0.1,
+    "min_centered_gradient_cosine": 0.95
+  },
+  "training_gate": "Do not run sampled policy retraining before exact gate. If anchor passes but frozen cross-weights fail, test current-weight recompression exactly across every probe before downstream comparison.",
+  "retraining_if_gate_passes": {
+    "steps": 120,
+    "budget": 8192,
+    "learning_rate": 0.3,
+    "sampling_seeds": [
+      300,
+      301,
+      302
+    ],
+    "methods": [
+      "mc",
+      "grid_biqae"
+    ],
+    "states": 32,
+    "alpha": 0.975
+  },
+  "warning": "raw truth is finite trained-model sample enumeration, not population or market truth; tail nominal fractional mass always equals 1-alpha and is not used as preservation evidence"
+}

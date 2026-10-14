@@ -1,0 +1,6 @@
+{
+  "generated_scenarios.npz": "862afea6b5b9b3c0e98d0952ee2076fc84529d210c4e34e17742fcaa69a5b5c6",
+  "models\\trained_risk_model.npz": "dafde590ed9f20108732412b3ceb605cd33b2065dda3bda913698c586cc38516",
+  "optimizer_selection.json": "809e57b4d7a871571416e059cba9afa9127abbc1a90b8e459de1720c7181264e",
+  "test_returns.csv": "4b10e243c9560d9a8a8ca68c947b4ed25c57ef2d34c2e21ad6a206c775151364"
+}

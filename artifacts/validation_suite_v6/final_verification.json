@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "verified_evidence_hashes": 882,
+  "changed_evidence": [],
+  "row_counts": {
+    "paper/amplitude_results.csv": 5600,
+    "paper/risk_results.csv": 800,
+    "noise/results.csv": 960,
+    "factors/results.csv": 24800,
+    "factors/amplitude_results.csv": 4320,
+    "stability/results.csv": 123,
+    "backtest/daily_paths.csv": 56580,
+    "paper_author_schedule/amplitude_results.csv": 5600,
+    "paper_author_schedule/risk_results.csv": 800
+  },
+  "factor_budget_and_unique_seeds": true,
+  "pytest": "94 passed in 28.29s",
+  "markdown_sha256": "bf34d4ecdd0a1809a9568fa4061d6eb00323af19552f380135a7cfc31c0e4e2a",
+  "html_sha256": "b9e7c5280f09155b0535e79e10dae38c2784806ee2c226c322c41e5f0d02a371"
+}

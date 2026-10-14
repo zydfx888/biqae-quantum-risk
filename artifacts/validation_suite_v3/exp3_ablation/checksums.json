@@ -1,0 +1,13 @@
+{
+  "discretization.csv": "26f3c3d56676fc611dd033904e512be0493084bca837f4c25e84e3a0f27377dd",
+  "distribution_16.npz": "6d5532f6de1d7d8b01a1ae37b7bc83eab1e0ed6284bd9992b500af0c1505355e",
+  "distribution_32.npz": "0b553ea83ab57df1ead07485908ad2c670ced0ba6b57f175c3d255c3693d3c6d",
+  "distribution_64.npz": "9626a952b32108efa0942817b6ba72086d99bf64300ca1d1a318c5cb16446c1c",
+  "environment.json": "0c853c76a52e01347eeca1f45acfaa6dad0cd68bfdde32fabca3facacfc6e55b",
+  "protocol.json": "4c41732ad47a2482d561a4333b1c3758dceec7825100402517680de9e0321f67",
+  "results.csv": "2b306ea75963f0efddf8ed2616a9640f79f2ff96319032a5362e0deaefca06e8",
+  "rounds.parquet": "5fbc57e6982dc3a3612aebdc5cbe27c42303c3c00fbde490567e4043afbebf53",
+  "status.json": "9371d53c0fb7a4780960c88391109a3d475fc1590ef3616867709d473dfcbb43",
+  "summary.csv": "38a0db9ff43d9b80ca8cb43effd17b7f28beac4c25db2a85b319706edbe7dc73",
+  "报告.md": "24c3be9068d8a8782ca3d6491b5c3af2af7ffe7113c1859a618a4f922568d07f"
+}

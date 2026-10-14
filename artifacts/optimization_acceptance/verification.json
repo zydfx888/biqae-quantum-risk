@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "saved_policy_hashes_verified": 173,
+  "trajectory_points": 20760,
+  "files": {
+    "completion.json": "997b136c666d19ec250e564f35626d7612389340f21b26d4473db26cc7da9f6a",
+    "convergence.png": "d6370536c14236425aaa51e66bbd1713960e97a39f314be7fbb9cebbfa1bb3df",
+    "lp_references.json": "2b2ff31deee4ada0740d9e6b691d08bdccb75cd55ec85a96d50b07f7d4fab2f9",
+    "protocol.json": "f51bb3ff6e985f37c0e196b4bb20d2c080820bb184b1cbc481eb7df8af6cc2bf",
+    "results.csv": "af3878e81a4aa0077dcef57d3cf2049de25c980ef34d108d7be866b166bc9747",
+    "summary.csv": "4f1b4af4f2a15f0914c1ad33bf0097b6623948dde7586649e5d929ad02f2dbb3",
+    "trajectories.csv": "e83b275f6c45c6eaa2229db36090b0e13c409522e43da403dd0dfba6f6bc8ceb"
+  }
+}

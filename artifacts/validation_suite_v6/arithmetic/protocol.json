@@ -1,0 +1,85 @@
+{
+  "created_utc": "2026-09-16T01:36:57.141261+00:00",
+  "states": [
+    8,
+    16,
+    32
+  ],
+  "alphas": [
+    0.95,
+    0.975
+  ],
+  "seeds": [
+    1300,
+    1301
+  ],
+  "methods": [
+    "iqae",
+    "grid_biqae"
+  ],
+  "config": {
+    "dataset": "synthetic_student_t",
+    "assets": 4,
+    "states": 16,
+    "scenarios": 10000,
+    "alpha": 0.975,
+    "epsilon": 0.0005,
+    "failure_probability": 0.05,
+    "methods": [
+      "beta_biqae",
+      "grid_biqae",
+      "iqae",
+      "is",
+      "mc",
+      "mlae",
+      "normal_biqae",
+      "sobol"
+    ],
+    "shots_per_round": 128,
+    "max_grover_power": 3,
+    "max_rounds": 16,
+    "budget": 4096,
+    "seeds": [
+      13,
+      29,
+      43,
+      71,
+      101
+    ],
+    "distribution_seed": 20260908,
+    "backend": "analytic_shots",
+    "count_state_preparation": true,
+    "rho": 0.5,
+    "df": 5,
+    "grid_size": 2049,
+    "prior": [
+      1.0,
+      1.0
+    ],
+    "var_budget_fraction": 0.4,
+    "w_max": 0.6,
+    "optimization_steps": 25,
+    "learning_rate": 0.5,
+    "discretization": "tail",
+    "noise_probability": 0.001,
+    "record_posterior": false,
+    "stopping_rule": "interval",
+    "input_file": null,
+    "train_end": null,
+    "test_start": null,
+    "output": "artifacts/runs"
+  },
+  "weights": [
+    0.3333333333333333,
+    0.16666666666666666,
+    0.16666666666666666,
+    0.3333333333333333
+  ],
+  "asset_return_bits": 2,
+  "loss_bits": 5,
+  "asset_loss_offset": -0.030492278710337845,
+  "asset_loss_unit": 0.028495947182972218,
+  "execution": "Actual full adaptive ideal finite-shot risk schedules. All actual queries and powers reconstructed with asset qROM, controlled weighted integer addition, explicit loss register, comparator and excess subtraction, encoding and uncomputation; all compiled. Statevector validation on each unique 8-state k=0 circuit plus k=1 CDF and ES. Higher powers verified from unitary amplitude-amplification identity after base circuit validation, not separately statevector simulated.",
+  "qualification": "2-bit asset fixed point deliberately small demonstration, not production 5bp accuracy; quantization error reported independently. No hardware routing, error correction or physical timing.",
+  "source_model_hash": "aa73b7209082c686b2a10c2a5e6f13c16ccab954b2be3eeb709c499d2c8d6ef4"
+}

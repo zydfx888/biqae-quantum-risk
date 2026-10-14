@@ -1,0 +1,24 @@
+{
+  "candidates": [
+    {
+      "seed": 13,
+      "iterations": 19,
+      "validation_log_density": 13.523201537806424
+    },
+    {
+      "seed": 29,
+      "iterations": 24,
+      "validation_log_density": 13.523200951807567
+    },
+    {
+      "seed": 43,
+      "iterations": 28,
+      "validation_log_density": 13.523185107903414
+    }
+  ],
+  "selected": {
+    "seed": 13,
+    "iterations": 19,
+    "validation_log_density": 13.523201537806424
+  }
+}

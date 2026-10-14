@@ -1,0 +1,9 @@
+{
+  "completed": "Executed additional 6400 independent seeded trials with original author FindNextK method; previous linear scheduler results preserved.",
+  "scheduler_equivalence": "10000 random intervals match original author method exactly, including selected power. External power cap rejects proposed k above31.",
+  "risk_beta": "95/97.5% ES MAE0.56225/0.68639bp, 100/100 five-bp successes and ES coverage at both levels; A calls50309.54/53725.53.",
+  "risk_normal": "ES MAE10.7683/27.2683bp, five-bp success87/100 and50/100; coverage87/100 and49/100. Poor boundary performance remains.",
+  "risk_cp": "ES MAE0.52475/0.69933bp, both100/100 five-bp successes, A calls52666.70/54779.25.",
+  "stability": "Changing to author scheduling leaves the main conclusion intact: Beta reliable on this discrete task; Normal is not; no universal query advantage. At256 shots Beta amplitude queries8455.31 exceed matched IQAE8224.18.",
+  "remaining_limits": "Numerical Beta MLE implementation uses scipy fit rather than author L-BFGS-B lower bound. Same likelihood objective, no finite-solver equality proof. Normal derived from paper because public code only implements Beta. Power/query caps external. No complete exact Bayesian equivalence claimed."
+}

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "q3-biqae-risk"
+version = "0.1.0"
+description = "Independent, reproducible quantum tail risk and resource experiments"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2", "scipy>=1.14", "qiskit>=2,<3", "qiskit-aer>=0.17", "qiskit-algorithms>=0.4,<0.5", "pandas>=2", "pyarrow>=18", "matplotlib>=3.9"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+biqae = "q3_biqae.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+

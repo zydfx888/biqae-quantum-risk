@@ -1,0 +1,108 @@
+{
+  "purpose": "Train a real-data risk model and portfolio policies; test feasibility rather than assume superiority",
+  "train": [
+    "2000-01-01",
+    "2017-12-31"
+  ],
+  "validation": [
+    "2018-01-01",
+    "2020-12-31"
+  ],
+  "test": [
+    "2021-01-01",
+    "2025-12-31"
+  ],
+  "assets": [
+    "Cnsmr",
+    "Manuf",
+    "HiTec",
+    "Hlth"
+  ],
+  "risk_model": "two-component full-covariance Gaussian mixture, EM, training-only standardization",
+  "model_initializations": [
+    13,
+    29,
+    43
+  ],
+  "selection": "highest validation log density; never test",
+  "scenario_count": 20003,
+  "frozen_states": 16,
+  "scenario_seed": 20260915,
+  "risk_alphas": [
+    0.95,
+    0.975
+  ],
+  "risk_budgets": [
+    4096,
+    16384,
+    65536
+  ],
+  "risk_seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "portfolio_seeds": [
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "portfolio_alpha": 0.975,
+  "portfolio_steps": 120,
+  "portfolio_budget_per_step": 8192,
+  "learning_rates": [
+    0.03,
+    0.1,
+    0.3
+  ],
+  "learning_rate_selection": "exact-gradient portfolio with lowest validation ES",
+  "methods": [
+    "mc",
+    "sobol",
+    "is",
+    "iqae",
+    "grid_biqae"
+  ],
+  "risk_weights": "trained LP policy reloaded from checkpoint, common to every estimator",
+  "risk_success": "absolute VaR and ES error <=0.002 (20 basis points), vs exact FROZEN trained-model truth",
+  "risk_gate": "BIQAE observed joint success >=95% at some preregistered budget at each alpha; report CP uncertainty",
+  "portfolio_gate": "BIQAE mean heldout ES <=1.05 * exact-gradient heldout ES; constraints <=1e-8",
+  "circuit_gate": "trained-model Oracle target probability and inverse errors <=1e-8; amplified probabilities also verified",
+  "limitations": "single real-data split, finite seeds, retrospective revised public data, ideal simulator, no hardware speed claims",
+  "hybrid_training": "classical exact VaR and fractional atom selection; estimated signed tail expectations; all methods share this threshold rule",
+  "created_utc": "2026-09-15T02:53:41.618471+00:00"
+}

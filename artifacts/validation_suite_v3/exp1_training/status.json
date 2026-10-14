@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-09-15T07:35:58.273600+00:00",
+  "wall_seconds": 52.52953830000479,
+  "sampled_policies": 150,
+  "newly_trained_policies": 100,
+  "reused_sampled_policies": 50,
+  "rows": 153
+}

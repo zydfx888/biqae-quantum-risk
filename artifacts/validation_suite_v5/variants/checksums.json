@@ -1,0 +1,20 @@
+{
+  "amplitude_aggregate.csv": "faf4bbb3c9f10124f86565e626f4f67d09d1a69c8b102253f77e2a42c127f146",
+  "amplitude_paired.csv": "1bc2f8c6402f4230f985cf3deee1824b644f09b05e0896b0051f3b66501b2387",
+  "amplitude_results.csv": "45cb5aebfd980f7baceb102073517c265ba6c4a52c16d7d18fb11cda9a8c5b41",
+  "amplitude_rounds.parquet": "14477c87f02eab0eaa1830728f0c6736d95ebe9ee4a96b58ea5b416a5ae660a4",
+  "amplitude_summary.csv": "075ec5b9c4fed3f730a1c41e117a1037f4513bc33c8d7e21e512006e2ee71e3e",
+  "conclusions.json": "fd96fe30fd6847da4141ddc6ab3a35605d9bbd658af7cf96812820de5dfb349e",
+  "independent_audit.json": "e62e349fb5bf50d3106587c4ea0a3c04a6ba576c20aab58261ac874d5a8e40cf",
+  "posterior_projection_replay.csv": "e475bf6794c014098437de5ea4ec66d0607f39cc6f41088559e2548a593a46a4",
+  "posterior_projection_summary.csv": "97b5d67ac74347747d13396c0e6b50bbb7846d95445600371efef0cf87142a6a",
+  "protocol.json": "b26a1088575aaa35bb78211c3cf488f653b6ec0d9899ded2449d7b64df6d6a72",
+  "risk_paired.csv": "cabb4bb121656b5115655215fbcf07005f2268a403f19d1fda5248517d862a9c",
+  "risk_results.csv": "9a6908d9706b59318243d23abb2408c7cac6651962e4d8038270a0f96e1ce88b",
+  "risk_rounds.parquet": "96796d669fe04bacfaaca8d439fe24ab6292ae5fd80a778e1c2ff5bbf538a7dc",
+  "risk_summary.csv": "ffef61b696ea02504db21ce1309b2e51acac69332b06ba09931a8b5964799c95",
+  "status.json": "92ce874f09a86a1595006e5cf259e617e3251202497f60eb84e2f8679c7f9c65",
+  "timing_protocol.json": "885ef0544360f9623e09c5b241be103f13d82345af94b16bd94ac2057af8af46",
+  "timing_results.csv": "adffbdc33ee9b352a8cbbf2490e4aa5f7b18bc6a3019f5b9e69697bb891e7864",
+  "timing_summary.csv": "d936c645e4a83fc8054fbde81ede0743624019a55acbf7d07234c749cb6e0fcc"
+}

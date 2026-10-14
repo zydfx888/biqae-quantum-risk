@@ -1,0 +1,82 @@
+[
+  {
+    "iteration": 0,
+    "training_average_log_likelihood_standardized": -4.208739330449416
+  },
+  {
+    "iteration": 1,
+    "training_average_log_likelihood_standardized": -3.677712769135906
+  },
+  {
+    "iteration": 2,
+    "training_average_log_likelihood_standardized": -3.639438056802427
+  },
+  {
+    "iteration": 3,
+    "training_average_log_likelihood_standardized": -3.6349279757888837
+  },
+  {
+    "iteration": 4,
+    "training_average_log_likelihood_standardized": -3.6341100220106823
+  },
+  {
+    "iteration": 5,
+    "training_average_log_likelihood_standardized": -3.6338572288705935
+  },
+  {
+    "iteration": 6,
+    "training_average_log_likelihood_standardized": -3.6337463658659406
+  },
+  {
+    "iteration": 7,
+    "training_average_log_likelihood_standardized": -3.6336888913384326
+  },
+  {
+    "iteration": 8,
+    "training_average_log_likelihood_standardized": -3.633657115169899
+  },
+  {
+    "iteration": 9,
+    "training_average_log_likelihood_standardized": -3.6336391432606803
+  },
+  {
+    "iteration": 10,
+    "training_average_log_likelihood_standardized": -3.633628896389101
+  },
+  {
+    "iteration": 11,
+    "training_average_log_likelihood_standardized": -3.633623035882024
+  },
+  {
+    "iteration": 12,
+    "training_average_log_likelihood_standardized": -3.6336196792749136
+  },
+  {
+    "iteration": 13,
+    "training_average_log_likelihood_standardized": -3.633617755057746
+  },
+  {
+    "iteration": 14,
+    "training_average_log_likelihood_standardized": -3.6336166511261347
+  },
+  {
+    "iteration": 15,
+    "training_average_log_likelihood_standardized": -3.63361601727503
+  },
+  {
+    "iteration": 16,
+    "training_average_log_likelihood_standardized": -3.6336156529778005
+  },
+  {
+    "iteration": 17,
+    "training_average_log_likelihood_standardized": -3.633615443348702
+  },
+  {
+    "iteration": 18,
+    "training_average_log_likelihood_standardized": -3.6336153225346095
+  },
+  {
+    "iteration": 19,
+    "training_average_log_likelihood_standardized": -3.6336152527685517
+  }
+]
